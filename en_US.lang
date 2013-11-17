@@ -171,7 +171,7 @@ item.thermalexpansion.tool.invarSickle.name=Invar Sickle
 item.thermalexpansion.tool.invarBattleWrench.name=Invar BattleWrench
 
 item.thermalexpansion.component.machineFrame.name=Machine Frame
-item.thermalexpansion.component.cellBasicFrame.name=Energy Cell Frame
+item.thermalexpansion.component.cellBasicFrame.name=Leadstone Energy Cell Frame
 item.thermalexpansion.component.cellReinforcedFrameEmpty.name=Redstone Energy Cell Frame (Empty)
 item.thermalexpansion.component.cellReinforcedFrameFull.name=Redstone Energy Cell Frame (Full)
 item.thermalexpansion.component.energyConduitEmpty.name=Redstone Energy Conduit (Empty)
@@ -306,7 +306,7 @@ tile.thermalexpansion.dynamo.magmatic.name=Magmatic Dynamo
 tile.thermalexpansion.dynamo.compression.name=Compression Dynamo
 
 tile.thermalexpansion.energycell.creative.name=Creative Energy Cell
-tile.thermalexpansion.energycell.basic.name=Energy Cell
+tile.thermalexpansion.energycell.basic.name=Leadstone Energy Cell
 tile.thermalexpansion.energycell.hardened.name=Hardened Energy Cell
 tile.thermalexpansion.energycell.reinforced.name=Redstone Energy Cell
 tile.thermalexpansion.energycell.resonant.name=Resonant Energy Cell
