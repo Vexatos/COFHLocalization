@@ -171,7 +171,7 @@ item.thermalexpansion.tool.invarSickle.name=Invarsichel
 item.thermalexpansion.tool.invarBattleWrench.name=Invar-Kampfschraubenschlüssel
 
 item.thermalexpansion.component.machineFrame.name=Maschinenrahmen
-item.thermalexpansion.component.cellBasicFrame.name=Energiezellenrahmen
+item.thermalexpansion.component.cellBasicFrame.name=Leadstone-Energiezellenrahmen
 item.thermalexpansion.component.cellReinforcedFrameEmpty.name=Redstone-Energiezellenrahmen(Leer)
 item.thermalexpansion.component.cellReinforcedFrameFull.name=Redstone-Energiezellenrahmen (Voll)
 item.thermalexpansion.component.energyConduitEmpty.name=Redstone-Energieleitung (Leer)
