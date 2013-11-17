@@ -35,7 +35,7 @@ achievement.te.multimeter.desc=Es gibt keine Unfälle, nur Zufälle.
 achievement.te.florb=Ich kann das werfen?!
 achievement.te.florb.desc=Beinhaltet eine Flüssigkeit. Du kannst ihn werfen.
 achievement.te.florbMagmatic=Siehe die Welt brennen
-achievement.te.florbMagmatic=Florb. Ja, er hält Lava. Du Monster.
+achievement.te.florbMagmatic.desc=Florb. Ja, er hält Lava. Du Monster.
 
 achievement.te.potatoBattery=Halbfertige Idee!
 achievement.te.potatoBattery.desc=Po-Tay-To
