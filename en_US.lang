@@ -35,7 +35,7 @@ achievement.te.multimeter.desc=There are no accidents, only Flukes.
 achievement.te.florb=I can throw this?!
 achievement.te.florb.desc=Contains a fluid. You can throw it.
 achievement.te.florbMagmatic=Watch the World Burn
-achievement.te.florbMagmatic=Florb. Yes, it holds lava. You monster.
+achievement.te.florbMagmatic.desc=Florb. Yes, it holds lava. You monster.
 
 achievement.te.potatoBattery=Half-Baked Idea!
 achievement.te.potatoBattery.desc=Po-Tay-To
