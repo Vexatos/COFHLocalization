@@ -94,7 +94,7 @@ gui.thermalexpansion.neihandler.pulverizer=磨粉机
 gui.thermalexpansion.neihandler.sawmill=锯木机
 gui.thermalexpansion.neihandler.smelter=感应炉
 gui.thermalexpansion.neihandler.crucible=熔岩炉
-gui.thermalexpansion.neihandler.transposer=流体转置器
+gui.thermalexpansion.neihandler.transposer=液体转置器
 
 gui.thermalexpansion.activator.clickLeft=左击
 gui.thermalexpansion.activator.clickRight=右击
@@ -330,7 +330,7 @@ tile.thermalexpansion.machine.pulverizer.name=磨粉机
 tile.thermalexpansion.machine.sawmill.name=锯木机
 tile.thermalexpansion.machine.smelter.name=感应炉
 tile.thermalexpansion.machine.crucible.name=熔岩炉
-tile.thermalexpansion.machine.transposer.name=流体转置机
+tile.thermalexpansion.machine.transposer.name=液体转置机
 tile.thermalexpansion.machine.iceGen.name=冷冻机
 tile.thermalexpansion.machine.rockGen.name=造石机
 tile.thermalexpansion.machine.waterGen.name=蓄水器

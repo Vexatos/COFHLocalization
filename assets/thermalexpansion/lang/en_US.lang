@@ -67,16 +67,6 @@ fluid.cryotheum=Gelid Cryotheum
 fluid.coal=Liquifacted Coal
 fluid.steam=Steam
 
-gui.thermalexpansion.all=All
-gui.thermalexpansion.blank=Blank
-gui.thermalexpansion.configuration=Configuration
-gui.thermalexpansion.empty=Empty
-gui.thermalexpansion.energy=Energy
-gui.thermalexpansion.fluid=Fluid
-gui.thermalexpansion.items=Items
-gui.thermalexpansion.none=None
-gui.thermalexpansion.receiving=Receiving
-gui.thermalexpansion.sending=Sending
 gui.thermalexpansion.schematic=Schematic
 
 gui.thermalexpansion.modeItem=Item Mode
@@ -174,7 +164,7 @@ item.thermalexpansion.component.machineFrame.name=Machine Frame
 item.thermalexpansion.component.cellBasicFrame.name=Leadstone Energy Cell Frame
 item.thermalexpansion.component.cellReinforcedFrameEmpty.name=Redstone Energy Cell Frame (Empty)
 item.thermalexpansion.component.cellReinforcedFrameFull.name=Redstone Energy Cell Frame (Full)
-item.thermalexpansion.component.energyConduitEmpty.name=Redstone Energy Conduit (Empty)
+item.thermalexpansion.component.conduitEnergyReinforcedEmpty.name=Redstone Energy Conduit (Empty)
 item.thermalexpansion.component.tesseractFrameEmpty.name=Tesseract Frame (Empty)
 item.thermalexpansion.component.tesseractFrameFull.name=Tesseract Frame (Full)
 item.thermalexpansion.component.lampFrame.name=Illuminator Frame
@@ -265,7 +255,7 @@ item.thermalexpansion.florb.florb.name=Florb
 item.thermalexpansion.florb.florbMagmatic.name=Magmatic Florb
 
 item.thermalexpansion.capacitor.capacitorPotato.name=Tuberous Flux Capacitor
-item.thermalexpansion.capacitor.capacitorBasic.name=Flux Capacitor
+item.thermalexpansion.capacitor.capacitorBasic.name=Leadstone Flux Capacitor
 item.thermalexpansion.capacitor.capacitorHardened.name=Hardened Flux Capacitor
 item.thermalexpansion.capacitor.capacitorReinforced.name=Redstone Flux Capacitor
 item.thermalexpansion.capacitor.capacitorResonant.name=Resonant Flux Capacitor
@@ -282,8 +272,9 @@ message.thermalexpansion.lamp3=Mode: Scaled (Inverse)
 message.thermalexpansion.lamp4=Mode: Always Off
 message.thermalexpansion.lamp5=Mode: Always On
 
-tile.thermalexpansion.conduit.energyLow.name=Leadstone Energy Conduit
-tile.thermalexpansion.conduit.energyHigh.name=Redstone Energy Conduit
+tile.thermalexpansion.conduit.energyBasic.name=Leadstone Energy Conduit
+tile.thermalexpansion.conduit.energyHardened.name=Hardened Energy Conduit
+tile.thermalexpansion.conduit.energyReinforced.name=Redstone Energy Conduit
 tile.thermalexpansion.conduit.fluidTrans.name=Fluiduct
 tile.thermalexpansion.conduit.fluidOpaque.name=Fluiduct (Opaque)
 tile.thermalexpansion.conduit.itemTrans.name=Itemduct
