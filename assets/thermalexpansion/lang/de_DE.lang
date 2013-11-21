@@ -254,12 +254,12 @@ item.thermalexpansion.bucket.bucketCoal.name=Eimer mit Verflüssigter Kohle
 item.thermalexpansion.florb.florb.name=Florb
 item.thermalexpansion.florb.florbMagmatic.name=Magmatischer Florb
 
-item.thermalexpansion.capacitor.capacitorPotato.name=Kolliger Fluxkondensator
-item.thermalexpansion.capacitor.capacitorBasic.name=Fluxkondensator
-item.thermalexpansion.capacitor.capacitorHardened.name=Gehärteter Fluxkondensator
-item.thermalexpansion.capacitor.capacitorReinforced.name=Redstone-Fluxkondensator
-item.thermalexpansion.capacitor.capacitorResonant.name=Resonanter Fluxkondensator
-item.thermalexpansion.capacitor.capacitorCreative.name=Kreativer Fluxkondensator
+item.thermalexpansion.capacitor.capacitorPotato.name=Knolliger Fluxkompensator
+item.thermalexpansion.capacitor.capacitorBasic.name=Fluxkompensator
+item.thermalexpansion.capacitor.capacitorHardened.name=Gehärteter Fluxkompensator
+item.thermalexpansion.capacitor.capacitorReinforced.name=Redstone-Fluxkompensator
+item.thermalexpansion.capacitor.capacitorResonant.name=Resonanter Fluxkompensator
+item.thermalexpansion.capacitor.capacitorCreative.name=Kreativer Fluxkompensator
 
 itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Blöcke
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Werkzeug
