@@ -67,16 +67,6 @@ fluid.cryotheum=Gelenes Kryotheum
 fluid.coal=Verflüssigte Kohle
 fluid.steam=Dampf
 
-gui.thermalexpansion.all=Alles
-gui.thermalexpansion.blank=Blank
-gui.thermalexpansion.configuration=Konfiguration
-gui.thermalexpansion.empty=Leer
-gui.thermalexpansion.energy=Energie
-gui.thermalexpansion.fluid=Flüssigkeit
-gui.thermalexpansion.items=Items
-gui.thermalexpansion.none=Nichts
-gui.thermalexpansion.receiving=Empfangend
-gui.thermalexpansion.sending=Sendend
 gui.thermalexpansion.schematic=Schema
 
 gui.thermalexpansion.modeItem=Item-Modus
@@ -264,12 +254,12 @@ item.thermalexpansion.bucket.bucketCoal.name=Eimer mit Verflüssigter Kohle
 item.thermalexpansion.florb.florb.name=Florb
 item.thermalexpansion.florb.florbMagmatic.name=Magmatischer Florb
 
-item.thermalexpansion.capacitor.capacitorPotato.name=Kolliger Fluxkondensator
-item.thermalexpansion.capacitor.capacitorBasic.name=Fluxkondensator
-item.thermalexpansion.capacitor.capacitorHardened.name=Gehärteter Fluxkondensator
-item.thermalexpansion.capacitor.capacitorReinforced.name=Redstone-Fluxkondensator
-item.thermalexpansion.capacitor.capacitorResonant.name=Resonanter Fluxkondensator
-item.thermalexpansion.capacitor.capacitorCreative.name=Kreativer Fluxkondensator
+item.thermalexpansion.capacitor.capacitorPotato.name=Knolliger Fluxkompensator
+item.thermalexpansion.capacitor.capacitorBasic.name=Fluxkompensator
+item.thermalexpansion.capacitor.capacitorHardened.name=Gehärteter Fluxkompensator
+item.thermalexpansion.capacitor.capacitorReinforced.name=Redstone-Fluxkompensator
+item.thermalexpansion.capacitor.capacitorResonant.name=Resonanter Fluxkompensator
+item.thermalexpansion.capacitor.capacitorCreative.name=Kreativer Fluxkompensator
 
 itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Blöcke
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Werkzeug
@@ -282,8 +272,9 @@ message.thermalexpansion.lamp3=Modus: Skaliert (Invertiert)
 message.thermalexpansion.lamp4=Modus: Immer Aus
 message.thermalexpansion.lamp5=Modus: Immer An
 
-tile.thermalexpansion.conduit.energyLow.name=Leadstone-Energieleitung
-tile.thermalexpansion.conduit.energyHigh.name=Redstone-Energieleitung
+tile.thermalexpansion.conduit.energyBasic.name=Leadstone-Energieleitung
+tile.thermalexpansion.conduit.energyHardened.name=Gehärtete Energieleitung
+tile.thermalexpansion.conduit.energyReinforced.name=Redstone-Energieleitung
 tile.thermalexpansion.conduit.fluidTrans.name=Fluidukt
 tile.thermalexpansion.conduit.fluidOpaque.name=Fluidukt (Opak)
 tile.thermalexpansion.conduit.itemTrans.name=Itemdukt
