@@ -1,5 +1,3 @@
-#zh_CN
-
 achievement.te.base=欢迎使用热能扩展!
 achievement.te.base.desc=就这样开始我们的旅途吧.
 achievement.te.machineFrame=框架!
@@ -25,8 +23,8 @@ achievement.te.waterGen=水,无处不水
 achievement.te.waterGen.desc=不, 岩浆可不行. 你这怪物.
 achievement.te.assembler=恶性循环
 achievement.te.assembler.desc=不, 它不能那样子合成东西.
-achievement.te.charger=什么是Flux?
-achievement.te.charger.desc=Flux没有界限. 所以看你的手.
+achievement.te.charger=什么是RF?
+achievement.te.charger.desc=RF没有界限. 所以看你的手.
 achievement.te.lexicon=矿物辞典
 achievement.te.lexicon.desc=看啊那矿物辞典的力量!
 
@@ -65,7 +63,7 @@ fluid.redstone=不稳定熔融红石
 fluid.glowstone=充能液态荧石
 fluid.ender=谐振熔融末影珍珠
 fluid.pyrotheum=烈焰之炽焱
-fluid.cryotheum=极寒之沷鱥
+fluid.cryotheum=极寒之凛冰
 fluid.coal=液态煤炭
 fluid.steam=蒸汽
 
@@ -94,7 +92,7 @@ gui.thermalexpansion.neihandler.pulverizer=磨粉机
 gui.thermalexpansion.neihandler.sawmill=锯木机
 gui.thermalexpansion.neihandler.smelter=感应炉
 gui.thermalexpansion.neihandler.crucible=熔岩炉
-gui.thermalexpansion.neihandler.transposer=液体转置器
+gui.thermalexpansion.neihandler.transposer=流体转置器
 
 gui.thermalexpansion.activator.clickLeft=左击
 gui.thermalexpansion.activator.clickRight=右击
@@ -170,7 +168,7 @@ item.thermalexpansion.tool.invarHoe.name=因瓦合金锄
 item.thermalexpansion.tool.invarShears.name=因瓦合金剪刀
 item.thermalexpansion.tool.invarFishingRod.name=因瓦合金钓鱼竿
 item.thermalexpansion.tool.invarSickle.name=因瓦合金镰刀
-item.thermalexpansion.tool.invarBattleWrench.name=因瓦合金
+item.thermalexpansion.tool.invarBattleWrench.name=因瓦合金战锤
 
 item.thermalexpansion.component.machineFrame.name=机器框架
 item.thermalexpansion.component.cellBasicFrame.name=能量元件框架
@@ -234,10 +232,10 @@ item.thermalexpansion.material.sawdustCompressed.name=压缩锯末
 item.thermalexpansion.material.slag.name=矿渣
 item.thermalexpansion.material.slagRich.name=富集矿渣
 item.thermalexpansion.material.dustPyrotheum.name=炽焱粉
-item.thermalexpansion.material.dustCryotheum.name=沷鱥粉
+item.thermalexpansion.material.dustCryotheum.name=凛冰粉
 
 item.thermalexpansion.material.pneumaticServo.name=气动伺服器
-item.thermalexpansion.material.powerCoilGold.name=红石j接收线圈
+item.thermalexpansion.material.powerCoilGold.name=红石接收线圈
 item.thermalexpansion.material.powerCoilSilver.name=红石传输线圈
 item.thermalexpansion.material.powerCoilElectrum.name=红石传导线圈
 
@@ -247,7 +245,7 @@ item.thermalexpansion.material.gearElectrum.name=琥珀金齿轮
 item.thermalexpansion.material.gearInvar.name=因瓦合金齿轮
 item.thermalexpansion.material.gearEnderium.name=末影齿轮
 
-item.thermalexpansion.material.rodBlizz.name=暴雪棍
+item.thermalexpansion.material.rodBlizz.name=暴雪棒
 item.thermalexpansion.material.dustBlizz.name=暴雪粉
 
 item.thermalexpansion.diagram.schematic=图纸
@@ -260,18 +258,18 @@ item.thermalexpansion.bucket.bucketRedstone.name=不稳定熔融红石桶
 item.thermalexpansion.bucket.bucketGlowstone.name=充能熔融荧石桶
 item.thermalexpansion.bucket.bucketEnder.name=谐振熔融末影珍珠桶
 item.thermalexpansion.bucket.bucketPyrotheum.name=烈焰之炽焱桶
-item.thermalexpansion.bucket.bucketCryotheum.name=极寒之沷鱥桶
+item.thermalexpansion.bucket.bucketCryotheum.name=极寒之凛冰桶
 item.thermalexpansion.bucket.bucketCoal.name=液态煤炭桶
 
 item.thermalexpansion.florb.florb.name=流体球
 item.thermalexpansion.florb.florbMagmatic.name=熔岩流体球
 
-item.thermalexpansion.capacitor.capacitorPotato.name=节点Flux容器
-item.thermalexpansion.capacitor.capacitorBasic.name=Flux容器
-item.thermalexpansion.capacitor.capacitorHardened.name=硬化Flux容器
-item.thermalexpansion.capacitor.capacitorReinforced.name=RF容器
-item.thermalexpansion.capacitor.capacitorResonant.name=谐振Flux容器
-item.thermalexpansion.capacitor.capacitorCreative.name=创造Flux容器
+item.thermalexpansion.capacitor.capacitorPotato.name=马铃薯RF容器
+item.thermalexpansion.capacitor.capacitorBasic.name=基础RF容器
+item.thermalexpansion.capacitor.capacitorHardened.name=硬化RF容器
+item.thermalexpansion.capacitor.capacitorReinforced.name=强化RF容器
+item.thermalexpansion.capacitor.capacitorResonant.name=谐振RF容器
+item.thermalexpansion.capacitor.capacitorCreative.name=创造RF容器
 
 itemGroup.thermalexpansion.creativeTabBlocks=热能扩展|方块
 itemGroup.thermalexpansion.creativeTabTools=热能扩展|工具
@@ -304,7 +302,7 @@ tile.thermalexpansion.device.breaker.name=方块采掘机
 tile.thermalexpansion.device.nullifier.name=焚毁炉
 
 tile.thermalexpansion.dynamo.steam.name=蒸汽能源炉
-tile.thermalexpansion.dynamo.magmatic.name=岩浆能源炉
+tile.thermalexpansion.dynamo.magmatic.name=热力能源炉
 tile.thermalexpansion.dynamo.compression.name=压缩能源炉
 
 tile.thermalexpansion.energycell.creative.name=创造能量单元
@@ -317,7 +315,7 @@ tile.thermalexpansion.fluid.redstone.name=熔融红石
 tile.thermalexpansion.fluid.glowstone.name=充能液态荧石
 tile.thermalexpansion.fluid.ender.name=谐振熔融末影珍珠
 tile.thermalexpansion.fluid.pyrotheum.name=烈焰之炽焱
-tile.thermalexpansion.fluid.cryotheum.name=极寒之沷鱥
+tile.thermalexpansion.fluid.cryotheum.name=极寒之凛冰
 tile.thermalexpansion.fluid.coal.name=液态煤炭
 tile.thermalexpansion.fluid.steam.name=蒸汽
 
@@ -330,7 +328,7 @@ tile.thermalexpansion.machine.pulverizer.name=磨粉机
 tile.thermalexpansion.machine.sawmill.name=锯木机
 tile.thermalexpansion.machine.smelter.name=感应炉
 tile.thermalexpansion.machine.crucible.name=熔岩炉
-tile.thermalexpansion.machine.transposer.name=液体转置机
+tile.thermalexpansion.machine.transposer.name=流体转置机
 tile.thermalexpansion.machine.iceGen.name=冷冻机
 tile.thermalexpansion.machine.rockGen.name=造石机
 tile.thermalexpansion.machine.waterGen.name=蓄水器
