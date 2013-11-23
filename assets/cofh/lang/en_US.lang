@@ -43,6 +43,5 @@ message.cofh.holdShift1=Hold
 message.cofh.holdShift2=Shift
 message.cofh.holdShift3=for Details
 
-message.cofh.secure1=This
-message.cofh.secure2=is private and belongs to
-message.cofh.secure3=You could have lost your hand!
+message.cofh.secure1=This is private and belongs to
+message.cofh.secure2=You could have lost your hand!

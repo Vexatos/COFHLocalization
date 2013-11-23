@@ -25,6 +25,7 @@ achievement.te.assembler=A Vicious Cycle
 achievement.te.assembler.desc=No, it will not craft that.
 achievement.te.charger=What The Flux?
 achievement.te.charger.desc=Flux knows no bounds. So watch your hands.
+
 achievement.te.lexicon=
 achievement.te.lexicon.desc=Behold the power of Lexiconification!
 
@@ -94,6 +95,10 @@ gui.thermalexpansion.activator.angleLow=Aim Low
 gui.thermalexpansion.activator.angleLevel=Aim Level
 gui.thermalexpansion.activator.angleHigh=Aim High
 
+gui.thermalexpansion.cell.decRecv=Decrease RF Input by
+gui.thermalexpansion.cell.decSend=Decrease RF Output by
+gui.thermalexpansion.cell.incRecv=Increase RF Input by
+gui.thermalexpansion.cell.incSend=Increase RF Output by
 gui.thermalexpansion.cell.maxIn=Max Input
 gui.thermalexpansion.cell.maxOut=Max Output
 
@@ -265,6 +270,16 @@ itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Blocks
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Tools
 itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Items
 
+message.thermalexpansion.conduit.energy0=Network Saturation
+message.thermalexpansion.conduit.energy1=Monitoring for 20 ticks
+message.thermalexpansion.conduit.energy2=Average Distribution
+message.thermalexpansion.conduit.energy3=ticks
+
+message.thermalexpansion.conduit.item0=Mode: Normal
+message.thermalexpansion.conduit.item1=Mode: Vacuum
+message.thermalexpansion.conduit.item2=Mode: Dense
+message.thermalexpansion.conduit.item3=Mode: Round-Robin
+
 message.thermalexpansion.lamp0=Mode: Switched; Default: Off
 message.thermalexpansion.lamp1=Mode: Switched; Default: On
 message.thermalexpansion.lamp2=Mode: Scaled (Proportional)
@@ -281,16 +296,13 @@ tile.thermalexpansion.conduit.itemTrans.name=Itemduct
 tile.thermalexpansion.conduit.itemOpaque.name=Itemduct (Opaque)
 tile.thermalexpansion.conduit.itemFastTrans.name=Impulse Itemduct
 tile.thermalexpansion.conduit.itemFastOpaque.name=Impulse Itemduct (Opaque)
-tile.thermalexpansion.conduit.item.RoundRobin=Mode: Round-Robin
-tile.thermalexpansion.conduit.item.Long=Mode: Dense
-tile.thermalexpansion.conduit.item.Short=Mode: Vacuum
-tile.thermalexpansion.conduit.item.Normal=Mode: Normal
 
 tile.thermalexpansion.device.workbench.name=Machinist's Workbench
 tile.thermalexpansion.device.tinkerbench.name=Tinker's Workbench
 tile.thermalexpansion.device.activator.name=Autonomous Activator
 tile.thermalexpansion.device.breaker.name=Terrain Smasher
 tile.thermalexpansion.device.nullifier.name=Nullifier
+tile.thermalexpansion.device.lexicon.name=Forge Lexicon
 
 tile.thermalexpansion.dynamo.steam.name=Steam Dynamo
 tile.thermalexpansion.dynamo.magmatic.name=Magmatic Dynamo
