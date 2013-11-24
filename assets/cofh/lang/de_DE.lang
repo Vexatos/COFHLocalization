@@ -42,6 +42,5 @@ message.cofh.holdShift1=Halte
 message.cofh.holdShift2=Shift
 message.cofh.holdShift3=für Details
 
-message.cofh.secure1=Dieser
-message.cofh.secure2=ist privat und gehört
-message.cofh.secure3=Du hättest deine Hand verlieren können!
+message.cofh.secure1=Dies ist privat und gehört
+message.cofh.secure2=Du hättest deine Hand verlieren können!
