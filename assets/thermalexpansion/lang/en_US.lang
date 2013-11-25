@@ -280,7 +280,7 @@ message.thermalexpansion.conduit.item1=Mode: Vacuum
 message.thermalexpansion.conduit.item2=Mode: Dense
 message.thermalexpansion.conduit.item3=Mode: Round-Robin
 
-message.thermalexpansion.conduit.item.warn0=The Itemduct stuffed inventory has been cleared!
+message.thermalexpansion.conduit.item.warn0=The Itemduct's stuffed inventory has been cleared!
 message.thermalexpansion.conduit.item.warn1=This Itemduct contains more than 64 stuffed items!
 message.thermalexpansion.conduit.item.warn2=Another hit will dismantle it with item loss! Try to clear it out first!
 

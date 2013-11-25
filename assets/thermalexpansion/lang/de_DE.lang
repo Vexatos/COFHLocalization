@@ -25,6 +25,7 @@ achievement.te.assembler=Ein Boshafter Zyklus
 achievement.te.assembler.desc=Nein, das wird es nicht herstellen.
 achievement.te.charger=What The Flux?
 achievement.te.charger.desc=Flux kennt keine Grenzen. Also pass auf deine Hände auf.
+
 achievement.te.lexicon=
 achievement.te.lexicon.desc=Erblicke die Macht der Lexikonifikation!
 
@@ -94,6 +95,10 @@ gui.thermalexpansion.activator.angleLow=Ziel Niedrig
 gui.thermalexpansion.activator.angleLevel=Ziel-Level
 gui.thermalexpansion.activator.angleHigh=Ziel Hoch
 
+gui.thermalexpansion.cell.decRecv=Reduziere RF-Input um
+gui.thermalexpansion.cell.decSend=Reduziere RF-Output um
+gui.thermalexpansion.cell.incRecv=Erhöhe RF-Input um
+gui.thermalexpansion.cell.incSend=Erhöhe RF Output um
 gui.thermalexpansion.cell.maxIn=Max Input
 gui.thermalexpansion.cell.maxOut=Max Output
 
@@ -265,6 +270,20 @@ itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Blöcke
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Werkzeug
 itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Items
 
+message.thermalexpansion.conduit.energy0=Netzwerksättigung
+message.thermalexpansion.conduit.energy1=Überwache für 20 ticks
+message.thermalexpansion.conduit.energy2=Durchschnittliche Verteilung
+message.thermalexpansion.conduit.energy3=ticks
+
+message.thermalexpansion.conduit.item0=Modus: Normal
+message.thermalexpansion.conduit.item1=Modus: Vakuum
+message.thermalexpansion.conduit.item2=Modus: Dicht
+message.thermalexpansion.conduit.item3=Modus: Round-Robin
+
+message.thermalexpansion.conduit.item.warn0=Das verstopfte Inventar des Itemdukts wurde geleert!
+message.thermalexpansion.conduit.item.warn1=Dieses Itemdukt enthält mehr als 64 gestopfte Items!
+message.thermalexpansion.conduit.item.warn2=Ein weiterer Klick wird es zerlegen, mit Itemverlust! Versuche zuerst, es zu leeren!
+
 message.thermalexpansion.lamp0=Modus: Wechselnd; Standard: Aus
 message.thermalexpansion.lamp1=Modus: Wechselnd; Standard: An
 message.thermalexpansion.lamp2=Modus: Skaliert (Proportional)
@@ -281,16 +300,13 @@ tile.thermalexpansion.conduit.itemTrans.name=Itemdukt
 tile.thermalexpansion.conduit.itemOpaque.name=Itemdukt (Opak)
 tile.thermalexpansion.conduit.itemFastTrans.name=Impuls-Itemdukt
 tile.thermalexpansion.conduit.itemFastOpaque.name=Impuls-Itemdukt (Opak)
-tile.thermalexpansion.conduit.item.RoundRobin=Modus: Round-Robin
-tile.thermalexpansion.conduit.item.Long=Modus: Dicht
-tile.thermalexpansion.conduit.item.Short=Modus: Vakuum
-tile.thermalexpansion.conduit.item.Normal=Modus: Normal
 
 tile.thermalexpansion.device.workbench.name=Maschinistenwerkbank
 tile.thermalexpansion.device.tinkerbench.name=Tüftelwerkbank
 tile.thermalexpansion.device.activator.name=Autonomer Aktivator
 tile.thermalexpansion.device.breaker.name=Terrainzerschlager
 tile.thermalexpansion.device.nullifier.name=Nullifzierer
+tile.thermalexpansion.device.lexicon.name=Forge-Lexikon
 
 tile.thermalexpansion.dynamo.steam.name=Dampfdynamo
 tile.thermalexpansion.dynamo.magmatic.name=Magmatischer Dynamo
