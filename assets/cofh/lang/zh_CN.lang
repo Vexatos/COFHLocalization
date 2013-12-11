@@ -37,7 +37,20 @@ gui.cofh.tutorial.tabConfiguration=该配置栏可以设定物品如何进入和
 gui.cofh.tutorial.tabConfiguration2=该配置栏可以设定该设备的操作模式.
 gui.cofh.tutorial.tabRedstone=红石控制配置栏用来设定设备对红石信号的响应.
 
-item.invalid.name=Invalid Item (Destroy)
+info.cofh.charge=充能
+info.cofh.damageAttack=攻击伤害
+info.cofh.damageFlux=RF伤害
+
+info.cofh.lexicon1=将物品转换为同一种形式(根据forge矿物辞典规则).
+info.cofh.lexicon2=右击打开以研究.
+info.cofh.lexicon3=潜行时右键激活以获取智慧的启迪!
+info.cofh.lexicon4=右击打开以转换物品.
+info.cofh.lexicon5=潜行时右键关闭以抛弃知识的垂怜.
+
+item.cofh.tool.lexicon.name=矿物辞典
+item.cofh.tool.lexiconActive.name=矿物辞典(激活)
+
+item.invalid.name=无效物品(请销毁之)
 
 message.cofh.holdShift1=持有
 message.cofh.holdShift2=按住潜行
@@ -45,3 +58,4 @@ message.cofh.holdShift3=以查看详细信息
 
 message.cofh.secure1=该设备属于私人财产,它属于
 message.cofh.secure2=你可能要失去你的手了!
+message.cofh.secureWarning=注意: 当前服务器内Op能够自由访问加锁的机器和方块(可在配置文件中设置).
