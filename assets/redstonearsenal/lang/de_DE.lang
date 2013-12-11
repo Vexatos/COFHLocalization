@@ -2,7 +2,7 @@
 
 death.attack.flux=Und wieder wurde jemand zu Tode gefluxt!
 
-info.redstonearsenal.tool.chargeOn=Alt + Rechtsklicke, um zu Ermächtigen
+info.redstonearsenal.tool.chargeOn=Alt + Rechtsklicke, um zu aktivieren
 info.redstonearsenal.tool.chargeOff=Alt + Rechtsklicke, um zu bändigen
 info.redstonearsenal.tool.energyPerUse=RF je Nutzung
 
@@ -23,6 +23,8 @@ item.redstonearsenal.tool.sickle.name=Fluxierende Sichel
 item.redstonearsenal.tool.bow.name=Fluxierender Bogen
 
 itemGroup.redstonearsenal.creativeTab=Redstone Arsenal
+
+keybind.redstonearsenal.empower=Fluxwerkzeug/-waffe aktivieren!
 
 tile.redstonearsenal.storage.electrumFlux.name=Fluxierender Elektrumblock
 tile.redstonearsenal.storage.crystalFlux.name=Fluxkristallblock
