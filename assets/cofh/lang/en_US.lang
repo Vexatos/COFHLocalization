@@ -48,6 +48,8 @@ info.cofh.lexicon3=Use while sneaking to gain wisdom!
 info.cofh.lexicon4=Right click (open) to transmute items.
 info.cofh.lexicon5=Use while sneaking to forsake knowledge.
 
+info.cofh.press=Press
+
 item.cofh.tool.lexicon.name=Forge Lexicon
 item.cofh.tool.lexiconActive.name=Forge Lexicon (Active)
 
