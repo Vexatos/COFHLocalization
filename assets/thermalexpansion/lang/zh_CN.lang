@@ -159,11 +159,6 @@ info.thermalexpansion.florb3=是的,你可以扔掉它.
 info.thermalexpansion.florb4=这种流体比空气还轻.
 info.thermalexpansion.florb5=这个流体球会跑很远.
 
-item.thermalexpansion.armor.invarHelmet.name=因瓦合金头盔
-item.thermalexpansion.armor.invarPlate.name=因瓦合金胸甲
-item.thermalexpansion.armor.invarLegs.name=因瓦合金护腿
-item.thermalexpansion.armor.invarBoots.name=因瓦合金靴子
-
 item.thermalexpansion.tool.invarSword.name=因瓦合金剑
 item.thermalexpansion.tool.invarShovel.name=因瓦合金铲
 item.thermalexpansion.tool.invarPickaxe.name=因瓦合金镐
@@ -173,6 +168,34 @@ item.thermalexpansion.tool.invarShears.name=因瓦合金剪刀
 item.thermalexpansion.tool.invarFishingRod.name=因瓦合金钓鱼竿
 item.thermalexpansion.tool.invarSickle.name=因瓦合金镰刀
 item.thermalexpansion.tool.invarBattleWrench.name=因瓦合金战锤
+
+item.thermalexpansion.tool.wrench.name=新月锤
+item.thermalexpansion.tool.multimeter.name=万用表
+item.thermalexpansion.tool.debugger.name=调试器
+
+item.thermalexpansion.armor.invarHelmet.name=因瓦合金头盔
+item.thermalexpansion.armor.invarPlate.name=因瓦合金胸甲
+item.thermalexpansion.armor.invarLegs.name=因瓦合金护腿
+item.thermalexpansion.armor.invarBoots.name=因瓦合金靴子
+
+item.thermalexpansion.bucket.bucketRedstone.name=不稳定熔融红石桶
+item.thermalexpansion.bucket.bucketGlowstone.name=充能熔融荧石桶
+item.thermalexpansion.bucket.bucketEnder.name=谐振熔融末影珍珠桶
+item.thermalexpansion.bucket.bucketPyrotheum.name=烈焰之炽焱桶
+item.thermalexpansion.bucket.bucketCryotheum.name=极寒之凛冰桶
+item.thermalexpansion.bucket.bucketCoal.name=液态煤炭桶
+
+item.thermalexpansion.capacitor.capacitorPotato.name=马铃薯RF容器
+item.thermalexpansion.capacitor.capacitorBasic.name=基础RF容器
+item.thermalexpansion.capacitor.capacitorHardened.name=硬化RF容器
+item.thermalexpansion.capacitor.capacitorReinforced.name=强化RF容器
+item.thermalexpansion.capacitor.capacitorResonant.name=谐振RF容器
+item.thermalexpansion.capacitor.capacitorCreative.name=创造RF容器
+
+item.thermalexpansion.diagram.schematic=图纸
+
+item.thermalexpansion.florb.florb.name=流体球
+item.thermalexpansion.florb.florbMagmatic.name=熔岩流体球
 
 item.thermalexpansion.component.machineFrame.name=机器框架
 item.thermalexpansion.component.cellBasicFrame.name=能量元件框架
@@ -226,8 +249,8 @@ item.thermalexpansion.material.
 item.thermalexpansion.material.
 item.thermalexpansion.material.nuggetEnderium.name=末影粒
 
-item.thermalexpansion.material.crystalSulfur.name=硫磺
-item.thermalexpansion.material.crystalNiter.name=硝石
+item.thermalexpansion.material.dustSulfur.name=硫磺
+item.thermalexpansion.material.dustNiter.name=硝石
 item.thermalexpansion.material.crystalCinnabar.name=朱砂
 
 item.thermalexpansion.material.woodchips.name=木片
@@ -252,29 +275,6 @@ item.thermalexpansion.material.gearEnderium.name=末影齿轮
 item.thermalexpansion.material.rodBlizz.name=暴雪棒
 item.thermalexpansion.material.dustBlizz.name=暴雪粉
 
-item.thermalexpansion.diagram.schematic=图纸
-
-item.thermalexpansion.tool.wrench.name=新月锤
-item.thermalexpansion.tool.multimeter.name=万用表
-item.thermalexpansion.tool.debugger.name=调试器
-
-item.thermalexpansion.bucket.bucketRedstone.name=不稳定熔融红石桶
-item.thermalexpansion.bucket.bucketGlowstone.name=充能熔融荧石桶
-item.thermalexpansion.bucket.bucketEnder.name=谐振熔融末影珍珠桶
-item.thermalexpansion.bucket.bucketPyrotheum.name=烈焰之炽焱桶
-item.thermalexpansion.bucket.bucketCryotheum.name=极寒之凛冰桶
-item.thermalexpansion.bucket.bucketCoal.name=液态煤炭桶
-
-item.thermalexpansion.florb.florb.name=流体球
-item.thermalexpansion.florb.florbMagmatic.name=熔岩流体球
-
-item.thermalexpansion.capacitor.capacitorPotato.name=马铃薯RF容器
-item.thermalexpansion.capacitor.capacitorBasic.name=基础RF容器
-item.thermalexpansion.capacitor.capacitorHardened.name=硬化RF容器
-item.thermalexpansion.capacitor.capacitorReinforced.name=强化RF容器
-item.thermalexpansion.capacitor.capacitorResonant.name=谐振RF容器
-item.thermalexpansion.capacitor.capacitorCreative.name=创造RF容器
-
 itemGroup.thermalexpansion.creativeTabBlocks=热能扩展|方块
 itemGroup.thermalexpansion.creativeTabTools=热能扩展|工具
 itemGroup.thermalexpansion.creativeTabItems=热能扩展|物品
@@ -285,8 +285,8 @@ message.thermalexpansion.conduit.energy2=平均分布
 message.thermalexpansion.conduit.energy3=ticks
 
 message.thermalexpansion.conduit.item0=模式: 标准
-message.thermalexpansion.conduit.item1=模式: 路径缩短
-message.thermalexpansion.conduit.item2=模式: 路径延长
+message.thermalexpansion.conduit.item1=模式: 路径延长
+message.thermalexpansion.conduit.item2=模式: 路径缩短
 message.thermalexpansion.conduit.item3=模式: 循环赛式
 
 message.thermalexpansion.lamp0=模式: 已切换; 默认: 关闭
