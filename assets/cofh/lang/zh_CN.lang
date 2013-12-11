@@ -43,6 +43,5 @@ message.cofh.holdShift1=持有
 message.cofh.holdShift2=按住潜行
 message.cofh.holdShift3=以查看详细信息
 
-message.cofh.secure1=这台
-message.cofh.secure2=为私人所有,属于
-message.cofh.secure3=你可能要失去你的手了!
+message.cofh.secure1=该设备属于私人财产,它属于
+message.cofh.secure2=你可能要失去你的手了!

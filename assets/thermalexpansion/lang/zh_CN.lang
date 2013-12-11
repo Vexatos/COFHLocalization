@@ -104,6 +104,10 @@ gui.thermalexpansion.activator.angleLow=朝下瞄准
 gui.thermalexpansion.activator.angleLevel=水平瞄准
 gui.thermalexpansion.activator.angleHigh=向上瞄准
 
+gui.thermalexpansion.cell.decRecv=减少RF输入通过
+gui.thermalexpansion.cell.decSend=减少RF输出通过
+gui.thermalexpansion.cell.incRecv=增加RF输入通过
+gui.thermalexpansion.cell.incSend=增加RF输入通过
 gui.thermalexpansion.cell.maxIn=最大输入
 gui.thermalexpansion.cell.maxOut=最大输出
 
@@ -275,6 +279,16 @@ itemGroup.thermalexpansion.creativeTabBlocks=热能扩展|方块
 itemGroup.thermalexpansion.creativeTabTools=热能扩展|工具
 itemGroup.thermalexpansion.creativeTabItems=热能扩展|物品
 
+message.thermalexpansion.conduit.energy0=网络饱和
+message.thermalexpansion.conduit.energy1=持续监控20ticks
+message.thermalexpansion.conduit.energy2=平均分布
+message.thermalexpansion.conduit.energy3=ticks
+
+message.thermalexpansion.conduit.item0=模式: 标准
+message.thermalexpansion.conduit.item1=模式: 路径缩短
+message.thermalexpansion.conduit.item2=模式: 路径延长
+message.thermalexpansion.conduit.item3=模式: 循环赛式
+
 message.thermalexpansion.lamp0=模式: 已切换; 默认: 关闭
 message.thermalexpansion.lamp1=模式: 已切换; 默认: 开启
 message.thermalexpansion.lamp2=模式: 同比缩放
@@ -290,16 +304,13 @@ tile.thermalexpansion.conduit.itemTrans.name=物品导管
 tile.thermalexpansion.conduit.itemOpaque.name=物品导管 (非透明)
 tile.thermalexpansion.conduit.itemFastTrans.name=脉冲物品导管
 tile.thermalexpansion.conduit.itemFastOpaque.name=脉冲物品导管 (非透明)
-tile.thermalexpansion.conduit.item.RoundRobin=模式: 循环赛式
-tile.thermalexpansion.conduit.item.Long=模式: 密集
-tile.thermalexpansion.conduit.item.Short=模式: 虚空
-tile.thermalexpansion.conduit.item.Normal=模式: 标准
 
 tile.thermalexpansion.device.workbench.name=机械师工作台
 tile.thermalexpansion.device.tinkerbench.name=巧匠工作台
 tile.thermalexpansion.device.activator.name=自动执行器
 tile.thermalexpansion.device.breaker.name=方块采掘机
 tile.thermalexpansion.device.nullifier.name=焚毁炉
+tile.thermalexpansion.device.lexicon.name=矿物辞典
 
 tile.thermalexpansion.dynamo.steam.name=蒸汽能源炉
 tile.thermalexpansion.dynamo.magmatic.name=热力能源炉
