@@ -57,3 +57,4 @@ message.cofh.holdShift3=für Details
 
 message.cofh.secure1=Dies ist privat und gehört
 message.cofh.secure2=Du hättest deine Hand verlieren können!
+message.cofh.secureWarning=Anmerkung: Server Ops sind auf diesem Server fähig, frei auf 'sichere' Blöcke zuzugreifen.
