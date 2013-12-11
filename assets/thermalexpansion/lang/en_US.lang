@@ -150,11 +150,6 @@ info.thermalexpansion.florb3=Yes, you can throw it.
 info.thermalexpansion.florb4=This fluid is lighter than air.
 info.thermalexpansion.florb5=The Florb will travel further.
 
-item.thermalexpansion.armor.invarHelmet.name=Invar Helmet
-item.thermalexpansion.armor.invarPlate.name=Invar Armor
-item.thermalexpansion.armor.invarLegs.name=Invar Leggings
-item.thermalexpansion.armor.invarBoots.name=Invar Boots
-
 item.thermalexpansion.tool.invarSword.name=Invar Sword
 item.thermalexpansion.tool.invarShovel.name=Invar Shovel
 item.thermalexpansion.tool.invarPickaxe.name=Invar Pickaxe
@@ -164,6 +159,34 @@ item.thermalexpansion.tool.invarShears.name=Invar Shears
 item.thermalexpansion.tool.invarFishingRod.name=Invar Fishing Rod
 item.thermalexpansion.tool.invarSickle.name=Invar Sickle
 item.thermalexpansion.tool.invarBattleWrench.name=Invar BattleWrench
+
+item.thermalexpansion.tool.wrench.name=Crescent Hammer
+item.thermalexpansion.tool.multimeter.name=Multimeter
+item.thermalexpansion.tool.debugger.name=Debugger
+
+item.thermalexpansion.armor.invarHelmet.name=Invar Helmet
+item.thermalexpansion.armor.invarPlate.name=Invar Armor
+item.thermalexpansion.armor.invarLegs.name=Invar Leggings
+item.thermalexpansion.armor.invarBoots.name=Invar Boots
+
+item.thermalexpansion.bucket.bucketRedstone.name=Destabilized Redstone Bucket
+item.thermalexpansion.bucket.bucketGlowstone.name=Energized Glowstone Bucket
+item.thermalexpansion.bucket.bucketEnder.name=Resonant Ender Bucket
+item.thermalexpansion.bucket.bucketPyrotheum.name=Blazing Pyrotheum Bucket
+item.thermalexpansion.bucket.bucketCryotheum.name=Gelid Cryotheum Bucket
+item.thermalexpansion.bucket.bucketCoal.name=Liquifacted Coal Bucket
+
+item.thermalexpansion.capacitor.capacitorPotato.name=Tuberous Flux Capacitor
+item.thermalexpansion.capacitor.capacitorBasic.name=Leadstone Flux Capacitor
+item.thermalexpansion.capacitor.capacitorHardened.name=Hardened Flux Capacitor
+item.thermalexpansion.capacitor.capacitorReinforced.name=Redstone Flux Capacitor
+item.thermalexpansion.capacitor.capacitorResonant.name=Resonant Flux Capacitor
+item.thermalexpansion.capacitor.capacitorCreative.name=Creative Flux Capacitor
+
+item.thermalexpansion.diagram.schematic=Schematic
+
+item.thermalexpansion.florb.florb.name=Florb
+item.thermalexpansion.florb.florbMagmatic.name=Magmatic Florb
 
 item.thermalexpansion.component.machineFrame.name=Machine Frame
 item.thermalexpansion.component.cellBasicFrame.name=Leadstone Energy Cell Frame
@@ -217,8 +240,8 @@ item.thermalexpansion.material.
 item.thermalexpansion.material.
 item.thermalexpansion.material.nuggetEnderium.name=Enderium Nugget
 
-item.thermalexpansion.material.crystalSulfur.name=Sulfur
-item.thermalexpansion.material.crystalNiter.name=Niter
+item.thermalexpansion.material.dustSulfur.name=Sulfur
+item.thermalexpansion.material.dustNiter.name=Niter
 item.thermalexpansion.material.crystalCinnabar.name=Cinnabar
 
 item.thermalexpansion.material.woodchips.name=Wood Chips
@@ -243,29 +266,6 @@ item.thermalexpansion.material.gearEnderium.name=Enderium Gear
 item.thermalexpansion.material.rodBlizz.name=Blizz Rod
 item.thermalexpansion.material.dustBlizz.name=Blizz Powder
 
-item.thermalexpansion.diagram.schematic=Schematic
-
-item.thermalexpansion.tool.wrench.name=Crescent Hammer
-item.thermalexpansion.tool.multimeter.name=Multimeter
-item.thermalexpansion.tool.debugger.name=Debugger
-
-item.thermalexpansion.bucket.bucketRedstone.name=Destabilized Redstone Bucket
-item.thermalexpansion.bucket.bucketGlowstone.name=Energized Glowstone Bucket
-item.thermalexpansion.bucket.bucketEnder.name=Resonant Ender Bucket
-item.thermalexpansion.bucket.bucketPyrotheum.name=Blazing Pyrotheum Bucket
-item.thermalexpansion.bucket.bucketCryotheum.name=Gelid Cryotheum Bucket
-item.thermalexpansion.bucket.bucketCoal.name=Liquifacted Coal Bucket
-
-item.thermalexpansion.florb.florb.name=Florb
-item.thermalexpansion.florb.florbMagmatic.name=Magmatic Florb
-
-item.thermalexpansion.capacitor.capacitorPotato.name=Tuberous Flux Capacitor
-item.thermalexpansion.capacitor.capacitorBasic.name=Leadstone Flux Capacitor
-item.thermalexpansion.capacitor.capacitorHardened.name=Hardened Flux Capacitor
-item.thermalexpansion.capacitor.capacitorReinforced.name=Redstone Flux Capacitor
-item.thermalexpansion.capacitor.capacitorResonant.name=Resonant Flux Capacitor
-item.thermalexpansion.capacitor.capacitorCreative.name=Creative Flux Capacitor
-
 itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Blocks
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Tools
 itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Items
@@ -276,8 +276,8 @@ message.thermalexpansion.conduit.energy2=Average Distribution
 message.thermalexpansion.conduit.energy3=ticks
 
 message.thermalexpansion.conduit.item0=Mode: Normal
-message.thermalexpansion.conduit.item1=Mode: Vacuum
-message.thermalexpansion.conduit.item2=Mode: Dense
+message.thermalexpansion.conduit.item1=Mode: Dense
+message.thermalexpansion.conduit.item2=Mode: Vacuum
 message.thermalexpansion.conduit.item3=Mode: Round-Robin
 
 message.thermalexpansion.conduit.item.warn0=The Itemduct's stuffed inventory has been cleared!

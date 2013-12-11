@@ -37,6 +37,19 @@ gui.cofh.tutorial.tabConfiguration=The Configuration tab determines how items en
 gui.cofh.tutorial.tabConfiguration2=The Configuration tab determines the operation modes for this device.
 gui.cofh.tutorial.tabRedstone=The Redstone Control tab configures how this device reacts to redstone signals.
 
+info.cofh.charge=Charge
+info.cofh.damageAttack=Attack Damage
+info.cofh.damageFlux=Flux Damage
+
+info.cofh.lexicon1=Converts items to equivalent forms.
+info.cofh.lexicon2=Right click (open) to study.
+info.cofh.lexicon3=Use while sneaking to gain wisdom!
+info.cofh.lexicon4=Right click (open) to transmute items.
+info.cofh.lexicon5=Use while sneaking to forsake knowledge.
+
+item.cofh.tool.lexicon.name=Forge Lexicon
+item.cofh.tool.lexiconActive.name=Forge Lexicon (Active)
+
 item.invalid.name=Invalid Item (Destroy)
 
 message.cofh.holdShift1=Hold
@@ -45,3 +58,4 @@ message.cofh.holdShift3=for Details
 
 message.cofh.secure1=This is private and belongs to
 message.cofh.secure2=You could have lost your hand!
+message.cofh.secureWarning=Notice: Server Ops are able to freely access 'secure' blocks on this server.
