@@ -150,11 +150,6 @@ info.thermalexpansion.florb3=Ja, du kannst ihn werfen.
 info.thermalexpansion.florb4=Diese Flüssigkeit ist leichter als Luft.
 info.thermalexpansion.florb5=Der Florb wird weiter fliegen.
 
-item.thermalexpansion.armor.invarHelmet.name=Invarhelm
-item.thermalexpansion.armor.invarPlate.name=Invarbrustpanzer
-item.thermalexpansion.armor.invarLegs.name=Invarbeinschutz
-item.thermalexpansion.armor.invarBoots.name=Invarstiefel
-
 item.thermalexpansion.tool.invarSword.name=Invarschwert
 item.thermalexpansion.tool.invarShovel.name=Invarschaufel
 item.thermalexpansion.tool.invarPickaxe.name=Invarspitzhacke
@@ -164,6 +159,35 @@ item.thermalexpansion.tool.invarShears.name=Invarschere
 item.thermalexpansion.tool.invarFishingRod.name=Invarangelrute
 item.thermalexpansion.tool.invarSickle.name=Invarsichel
 item.thermalexpansion.tool.invarBattleWrench.name=Invar-Kampfschraubenschlüssel
+
+item.thermalexpansion.tool.wrench.name=Sichelhammer
+item.thermalexpansion.tool.multimeter.name=Multimeter
+item.thermalexpansion.tool.debugger.name=Debugger
+
+item.thermalexpansion.armor.invarHelmet.name=Invarhelm
+item.thermalexpansion.armor.invarPlate.name=Invarbrustpanzer
+item.thermalexpansion.armor.invarLegs.name=Invarbeinschutz
+item.thermalexpansion.armor.invarBoots.name=Invarstiefel
+
+item.thermalexpansion.bucket.bucketRedstone.name=Eimer mit Destabilisiertem Redstone
+item.thermalexpansion.bucket.bucketGlowstone.name=Eimer mit Energetisiertem Glowstone
+item.thermalexpansion.bucket.bucketEnder.name=Eimer mit Resonantem Endert
+item.thermalexpansion.bucket.bucketPyrotheum.name=Eimer mit Flammendem Pyrotheum
+item.thermalexpansion.bucket.bucketCryotheum.name=Eimer mit Gelenem Kryotheum
+item.thermalexpansion.bucket.bucketCoal.name=Eimer mit Verflüssigter Kohle
+
+item.thermalexpansion.capacitor.capacitorPotato.name=Knolliger Fluxkompensator
+item.thermalexpansion.capacitor.capacitorBasic.name=Fluxkompensator
+item.thermalexpansion.capacitor.capacitorHardened.name=Gehärteter Fluxkompensator
+item.thermalexpansion.capacitor.capacitorReinforced.name=Redstone-Fluxkompensator
+item.thermalexpansion.capacitor.capacitorResonant.name=Resonanter Fluxkompensator
+item.thermalexpansion.capacitor.capacitorCreative.name=Kreativer Fluxkompensator
+
+
+item.thermalexpansion.diagram.schematic=Schema
+
+item.thermalexpansion.florb.florb.name=Florb
+item.thermalexpansion.florb.florbMagmatic.name=Magmatischer Florb
 
 item.thermalexpansion.component.machineFrame.name=Maschinenrahmen
 item.thermalexpansion.component.cellBasicFrame.name=Leadstone-Energiezellenrahmen
@@ -217,8 +241,8 @@ item.thermalexpansion.material.
 item.thermalexpansion.material.
 item.thermalexpansion.material.nuggetEnderium.name=Enderiumnugget
 
-item.thermalexpansion.material.crystalSulfur.name=Schwefel
-item.thermalexpansion.material.crystalNiter.name=Salpeter
+item.thermalexpansion.material.dustSulfur.name=Schwefel
+item.thermalexpansion.material.dustNiter.name=Salpeter
 item.thermalexpansion.material.crystalCinnabar.name=Zinnober
 
 item.thermalexpansion.material.woodchips.name=Holzspäne
@@ -243,29 +267,6 @@ item.thermalexpansion.material.gearEnderium.name=Enderiumzahnrad
 item.thermalexpansion.material.rodBlizz.name=Blizzrute
 item.thermalexpansion.material.dustBlizz.name=Blizzstaub
 
-item.thermalexpansion.diagram.schematic=Schema
-
-item.thermalexpansion.tool.wrench.name=Sichelhammer
-item.thermalexpansion.tool.multimeter.name=Multimeter
-item.thermalexpansion.tool.debugger.name=Debugger
-
-item.thermalexpansion.bucket.bucketRedstone.name=Eimer mit Destabilisiertem Redstone
-item.thermalexpansion.bucket.bucketGlowstone.name=Eimer mit Energetisiertem Glowstone
-item.thermalexpansion.bucket.bucketEnder.name=Eimer mit Resonantem Endert
-item.thermalexpansion.bucket.bucketPyrotheum.name=Eimer mit Flammendem Pyrotheum
-item.thermalexpansion.bucket.bucketCryotheum.name=Eimer mit Gelenem Kryotheum
-item.thermalexpansion.bucket.bucketCoal.name=Eimer mit Verflüssigter Kohle
-
-item.thermalexpansion.florb.florb.name=Florb
-item.thermalexpansion.florb.florbMagmatic.name=Magmatischer Florb
-
-item.thermalexpansion.capacitor.capacitorPotato.name=Knolliger Fluxkompensator
-item.thermalexpansion.capacitor.capacitorBasic.name=Fluxkompensator
-item.thermalexpansion.capacitor.capacitorHardened.name=Gehärteter Fluxkompensator
-item.thermalexpansion.capacitor.capacitorReinforced.name=Redstone-Fluxkompensator
-item.thermalexpansion.capacitor.capacitorResonant.name=Resonanter Fluxkompensator
-item.thermalexpansion.capacitor.capacitorCreative.name=Kreativer Fluxkompensator
-
 itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Blöcke
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Werkzeug
 itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Items
@@ -276,8 +277,8 @@ message.thermalexpansion.conduit.energy2=Durchschnittliche Verteilung
 message.thermalexpansion.conduit.energy3=ticks
 
 message.thermalexpansion.conduit.item0=Modus: Normal
-message.thermalexpansion.conduit.item1=Modus: Vakuum
-message.thermalexpansion.conduit.item2=Modus: Dicht
+message.thermalexpansion.conduit.item1=Modus: Dicht
+message.thermalexpansion.conduit.item2=Modus: Vakuum
 message.thermalexpansion.conduit.item3=Modus: Round-Robin
 
 message.thermalexpansion.conduit.item.warn0=Das verstopfte Inventar des Itemdukts wurde geleert!
