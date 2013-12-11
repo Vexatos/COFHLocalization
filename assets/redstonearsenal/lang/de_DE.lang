@@ -1,3 +1,4 @@
+#de_DE
 
 death.attack.flux=Und wieder wurde jemand zu Tode gefluxt!
 
@@ -21,7 +22,7 @@ item.redstonearsenal.tool.axe.name=Fluxierende Axt
 item.redstonearsenal.tool.sickle.name=Fluxierende Sichel
 item.redstonearsenal.tool.bow.name=Fluxierender Bogen
 
+itemGroup.redstonearsenal.creativeTab=Redstone Arsenal
+
 tile.redstonearsenal.storage.electrumFlux.name=Fluxierender Elektrumblock
 tile.redstonearsenal.storage.crystalFlux.name=Fluxkristallblock
-
-itemGroup.redstonearsenal.creativeTab=Redstone Arsenal

@@ -1,3 +1,5 @@
+#de_DE
+
 achievement.te.base=Wilkommen zu Thermal Expansion!
 achievement.te.base.desc=Und so beginnt es.
 achievement.te.machineFrame=Eingerahmt!
@@ -182,7 +184,6 @@ item.thermalexpansion.capacitor.capacitorHardened.name=Gehärteter Fluxkompensat
 item.thermalexpansion.capacitor.capacitorReinforced.name=Redstone-Fluxkompensator
 item.thermalexpansion.capacitor.capacitorResonant.name=Resonanter Fluxkompensator
 item.thermalexpansion.capacitor.capacitorCreative.name=Kreativer Fluxkompensator
-
 
 item.thermalexpansion.diagram.schematic=Schema
 

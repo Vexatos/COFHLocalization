@@ -22,7 +22,7 @@ item.redstonearsenal.tool.axe.name=RF充能斧
 item.redstonearsenal.tool.sickle.name=RF充能镰刀
 item.redstonearsenal.tool.bow.name=RF充能弓
 
+itemGroup.redstonearsenal.creativeTab=红石兵工厂
+
 tile.redstonearsenal.storage.electrumFlux.name=RF琥珀金块
 tile.redstonearsenal.storage.crystalFlux.name=RF水晶块
-
-itemGroup.redstonearsenal.creativeTab=红石兵工厂

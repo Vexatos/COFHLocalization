@@ -1,3 +1,5 @@
+#zh_CN
+
 gui.cofh.accessMode=访问模式
 gui.cofh.accessPublic=公开
 gui.cofh.accessRestricted=受限
@@ -18,7 +20,6 @@ gui.cofh.items=物品
 gui.cofh.maxEnergyPerTick=最大功率
 gui.cofh.none=无
 gui.cofh.owner=主人
-gui.cofh.none=无
 gui.cofh.receiving=接收
 gui.cofh.redstoneControl=红石控制
 gui.cofh.redstoneControlOff=禁止

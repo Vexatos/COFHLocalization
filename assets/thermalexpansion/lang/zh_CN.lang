@@ -1,3 +1,5 @@
+#zh_CN
+
 achievement.te.base=欢迎使用热能扩展!
 achievement.te.base.desc=就这样开始我们的旅途吧.
 achievement.te.machineFrame=框架!
@@ -25,6 +27,7 @@ achievement.te.assembler=恶性循环
 achievement.te.assembler.desc=不, 它不能那样子合成东西.
 achievement.te.charger=什么是RF?
 achievement.te.charger.desc=RF没有界限. 所以看你的手.
+
 achievement.te.lexicon=矿物辞典
 achievement.te.lexicon.desc=看啊那矿物辞典的力量!
 
@@ -67,16 +70,6 @@ fluid.cryotheum=极寒之凛冰
 fluid.coal=液态煤炭
 fluid.steam=蒸汽
 
-gui.thermalexpansion.all=全部
-gui.thermalexpansion.blank=空白
-gui.thermalexpansion.configuration=配置
-gui.thermalexpansion.empty=空
-gui.thermalexpansion.energy=能量
-gui.thermalexpansion.fluid=流体
-gui.thermalexpansion.items=物品
-gui.thermalexpansion.none=无
-gui.thermalexpansion.receiving=接收
-gui.thermalexpansion.sending=发送
 gui.thermalexpansion.schematic=图纸
 
 gui.thermalexpansion.modeItem=物品模式
@@ -289,6 +282,10 @@ message.thermalexpansion.conduit.item1=模式: 路径延长
 message.thermalexpansion.conduit.item2=模式: 路径缩短
 message.thermalexpansion.conduit.item3=模式: 循环赛式
 
+message.thermalexpansion.conduit.item.warn0=
+message.thermalexpansion.conduit.item.warn1=
+message.thermalexpansion.conduit.item.warn2=
+
 message.thermalexpansion.lamp0=模式: 已切换; 默认: 关闭
 message.thermalexpansion.lamp1=模式: 已切换; 默认: 开启
 message.thermalexpansion.lamp2=模式: 同比缩放
@@ -296,8 +293,9 @@ message.thermalexpansion.lamp3=模式: 反比缩放
 message.thermalexpansion.lamp4=模式: 常关
 message.thermalexpansion.lamp5=模式: 常开
 
-tile.thermalexpansion.conduit.energyLow.name=铅石能量导管
-tile.thermalexpansion.conduit.energyHigh.name=红石能量导管
+tile.thermalexpansion.conduit.energyBasic.name=铅石能量导管
+tile.thermalexpansion.conduit.energyHardened.name=
+tile.thermalexpansion.conduit.energyReinforced.name=红石能量导管
 tile.thermalexpansion.conduit.fluidTrans.name=液体导管
 tile.thermalexpansion.conduit.fluidOpaque.name=液体导管 (非透明)
 tile.thermalexpansion.conduit.itemTrans.name=物品导管
