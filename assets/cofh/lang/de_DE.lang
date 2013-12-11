@@ -36,6 +36,19 @@ gui.cofh.tutorial.tabConfiguration=Der Konfigurations-Tab bestimmt, wie Items di
 gui.cofh.tutorial.tabConfiguration2=Der Konfigurations-Tab bestimmt die Operations-Modi dieses Gerätes.
 gui.cofh.tutorial.tabRedstone=Der Redstone-Kontroll-Tab konfiguriert, wie dieses Gerät auf Redstone-Signale reagiert.
 
+info.cofh.charge=Ladung
+info.cofh.damageAttack=Angriffsschaden
+info.cofh.damageFlux=Flux-Schaden
+
+info.cofh.lexicon1=Konvertiert Items in gleichwertige Formen.
+info.cofh.lexicon2=Rechtsklicke (öffne), um es zu studieren.
+info.cofh.lexicon3=Nutze, während du schleichst, um Weisheit zu bekommen!
+info.cofh.lexicon4=Rechtsklicke (öffne), um Items zu transmutieren.
+info.cofh.lexicon5=Nutze, während du schleichst, um Wissen zu aufzugeben.
+
+item.cofh.tool.lexicon.name=Forge-Lexikon
+item.cofh.tool.lexiconActive.name=Forge-Lexikon (Aktiv)
+
 item.invalid.name=Ungültiges Item (Zerstören)
 
 message.cofh.holdShift1=Halte
