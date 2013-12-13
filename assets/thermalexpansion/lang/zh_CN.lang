@@ -271,6 +271,7 @@ item.thermalexpansion.material.dustBlizz.name=暴雪粉
 itemGroup.thermalexpansion.creativeTabBlocks=热能扩展|方块
 itemGroup.thermalexpansion.creativeTabTools=热能扩展|工具
 itemGroup.thermalexpansion.creativeTabItems=热能扩展|物品
+itemGroup.thermalexpansion.creativeTabFlorbs=热能扩展|流体球
 
 message.thermalexpansion.conduit.energy0=网络饱和
 message.thermalexpansion.conduit.energy1=持续监控20ticks
@@ -294,7 +295,7 @@ message.thermalexpansion.lamp4=模式: 常关
 message.thermalexpansion.lamp5=模式: 常开
 
 tile.thermalexpansion.conduit.energyBasic.name=铅石能量导管
-tile.thermalexpansion.conduit.energyHardened.name=
+tile.thermalexpansion.conduit.energyHardened.name=强化能量导管
 tile.thermalexpansion.conduit.energyReinforced.name=红石能量导管
 tile.thermalexpansion.conduit.fluidTrans.name=液体导管
 tile.thermalexpansion.conduit.fluidOpaque.name=液体导管 (非透明)
