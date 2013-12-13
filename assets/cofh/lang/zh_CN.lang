@@ -27,7 +27,6 @@ gui.cofh.redstoneControlOn=允许
 gui.cofh.redstoneStateHigh=高
 gui.cofh.redstoneStateIgnored=忽略
 gui.cofh.redstoneStateLow=低
-gui.cofh.restoreConfig=保存客户端配置…
 gui.cofh.security=安全
 gui.cofh.sending=发送
 gui.cofh.signalRequired=需要信号
@@ -60,3 +59,6 @@ message.cofh.holdShift3=以查看详细信息
 message.cofh.secure1=该设备属于私人财产,它属于
 message.cofh.secure2=你可能要失去你的手了!
 message.cofh.secureWarning=注意: 当前服务器内Op能够自由访问加锁的机器和方块(可在配置文件中设置).
+
+message.cofh.receiveConfig=
+message.cofh.restoreConfig=保存客户端配置…

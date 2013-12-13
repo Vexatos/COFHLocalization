@@ -27,7 +27,6 @@ gui.cofh.redstoneControlOn=Enabled
 gui.cofh.redstoneStateHigh=High
 gui.cofh.redstoneStateIgnored=Ignored
 gui.cofh.redstoneStateLow=Low
-gui.cofh.restoreConfig=Restoring Client Configuration...
 gui.cofh.security=Security
 gui.cofh.sending=Sending
 gui.cofh.signalRequired=Signal Required
@@ -62,3 +61,6 @@ message.cofh.holdShift3=for Details
 message.cofh.secure1=This is private and belongs to
 message.cofh.secure2=You could have lost your hand!
 message.cofh.secureWarning=Notice: Server Ops are able to freely access 'secure' blocks on this server.
+
+message.cofh.receiveConfig=Receiving Server Configuration...
+message.cofh.restoreConfig=Restoring Client Configuration...

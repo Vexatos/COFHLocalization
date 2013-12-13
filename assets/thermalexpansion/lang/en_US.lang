@@ -271,6 +271,7 @@ item.thermalexpansion.material.dustBlizz.name=Blizz Powder
 itemGroup.thermalexpansion.creativeTabBlocks=Thermal Expansion: Blocks
 itemGroup.thermalexpansion.creativeTabTools=Thermal Expansion: Tools
 itemGroup.thermalexpansion.creativeTabItems=Thermal Expansion: Items
+itemGroup.thermalexpansion.creativeTabFlorbs=Thermal Expansion: Florbs
 
 message.thermalexpansion.conduit.energy0=Network Saturation
 message.thermalexpansion.conduit.energy1=Monitoring for 20 ticks

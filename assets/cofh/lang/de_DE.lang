@@ -27,7 +27,6 @@ gui.cofh.redstoneControlOn=Aktiviert
 gui.cofh.redstoneStateHigh=High
 gui.cofh.redstoneStateIgnored=Ignorieren
 gui.cofh.redstoneStateLow=Low
-gui.cofh.restoreConfig=Client-Konfiguration wiederherstellen...
 gui.cofh.security=Sicherheit
 gui.cofh.sending=Sendend
 gui.cofh.signalRequired=Signal benötigt
@@ -62,3 +61,6 @@ message.cofh.holdShift3=für Details
 message.cofh.secure1=Dies ist privat und gehört
 message.cofh.secure2=Du hättest deine Hand verlieren können!
 message.cofh.secureWarning=Anmerkung: Server Ops sind auf diesem Server fähig, frei auf 'sichere' Blöcke zuzugreifen.
+
+message.cofh.receiveConfig=
+message.cofh.restoreConfig=Client-Konfiguration wiederherstellen...
