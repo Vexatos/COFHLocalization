@@ -5,6 +5,8 @@ death.attack.flux=Another one bites the Flux!
 info.redstonearsenal.tool.chargeOn=to Empower
 info.redstonearsenal.tool.chargeOff=to Quell
 info.redstonearsenal.tool.energyPerUse=RF Per Use
+info.redstonearsenal.tool.shovel=Also serves as a Hoe.
+info.redstonearsenal.tool.wrench=Also serves as Shears.
 
 item.redstonearsenal.material.dustElectrumFlux.name=Fluxed Electrum Blend
 item.redstonearsenal.material.ingotElectrumFlux.name=Fluxed Electrum Ingot

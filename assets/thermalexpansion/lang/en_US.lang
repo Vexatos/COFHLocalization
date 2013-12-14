@@ -138,6 +138,8 @@ info.thermalexpansion.conduit.item=Transfers Items.
 info.thermalexpansion.conduit.itemFast=Transfers Items quickly.
 info.thermalexpansion.conduit.opaque=Contents cannot be seen.
 info.thermalexpansion.conduit.rate=Rate
+info.thermalexpansion.conduit.servo0=Install a Pneumatic Servo to upgrade.
+info.thermalexpansion.conduit.servo1=Configure with an empty hand once upgraded.
 
 info.thermalexpansion.dynamo.generate=Generates Energy (Redstone Flux).
 info.thermalexpansion.dynamo.steam1=Requires water and solid fuel.
@@ -286,6 +288,9 @@ message.thermalexpansion.conduit.item3=Mode: Round-Robin
 message.thermalexpansion.conduit.item.warn0=The Itemduct's stuffed inventory has been cleared!
 message.thermalexpansion.conduit.item.warn1=This Itemduct contains more than 64 stuffed items!
 message.thermalexpansion.conduit.item.warn2=Another hit will dismantle it with item loss! Try to clear it out first!
+
+message.thermalexpansion.conduit.servo0=The Pneumatic Servo has been installed!
+message.thermalexpansion.conduit.servo1=There is already a Pneumatic Servo installed here!
 
 message.thermalexpansion.lamp0=Mode: Switched; Default: Off
 message.thermalexpansion.lamp1=Mode: Switched; Default: On
