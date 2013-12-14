@@ -138,6 +138,8 @@ info.thermalexpansion.conduit.item=传输物品.
 info.thermalexpansion.conduit.itemFast=快捷地传输物品.
 info.thermalexpansion.conduit.opaque=所容纳的物品不可见
 info.thermalexpansion.conduit.rate=速率
+info.thermalexpansion.conduit.servo0=安装气动伺服器以升级.
+info.thermalexpansion.conduit.servo1=升级后空手配置.
 
 info.thermalexpansion.dynamo.generate=产能(RF)
 info.thermalexpansion.dynamo.steam1=需要水以及固态燃料
@@ -283,10 +285,13 @@ message.thermalexpansion.conduit.item1=模式: 路径延长
 message.thermalexpansion.conduit.item2=模式: 路径缩短
 message.thermalexpansion.conduit.item3=模式: 循环赛式
 
-message.thermalexpansion.conduit.item.warn0=
-message.thermalexpansion.conduit.item.warn1=
-message.thermalexpansion.conduit.item.warn2=
+message.thermalexpansion.conduit.item.warn0=导管内阻塞的物品空间已被疏通!
+message.thermalexpansion.conduit.item.warn1=导管内包含超过64个阻塞物品!
+message.thermalexpansion.conduit.item.warn2=再敲打会拆掉导管丢失其中的物品,先将它清空吧!
 
+message.thermalexpansion.conduit.servo0=气动伺服器已安装!
+message.thermalexpansion.conduit.servo1=已经安装过气动伺服器!
+ 
 message.thermalexpansion.lamp0=模式: 已切换; 默认: 关闭
 message.thermalexpansion.lamp1=模式: 已切换; 默认: 开启
 message.thermalexpansion.lamp2=模式: 同比缩放
