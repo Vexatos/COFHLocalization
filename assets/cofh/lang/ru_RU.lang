@@ -1,0 +1,66 @@
+﻿#ru_RU
+
+gui.cofh.accessMode=Режим доступа
+gui.cofh.accessPublic=Публичный
+gui.cofh.accessRestricted=Ограниченный
+gui.cofh.accessPrivate=Приватный
+gui.cofh.all=Все
+gui.cofh.blank=Пусто
+gui.cofh.configuration=Конфигурация
+gui.cofh.controlStatus=Режим управления
+gui.cofh.empty=Пусто
+gui.cofh.energy=Энергия
+gui.cofh.energyConsume=Расход энергии
+gui.cofh.energyProduce=Вывод энергии
+gui.cofh.energyStored=Текущий заряд
+gui.cofh.fluid=Жидкость
+gui.cofh.friendsList=Список друзей
+gui.cofh.information=Информация
+gui.cofh.items=Предметы
+gui.cofh.maxEnergyPerTick=Макс. энергия
+gui.cofh.none=Ничего
+gui.cofh.owner=Владелец
+gui.cofh.receiving=Приём
+gui.cofh.redstoneControl=Красный Контроль
+gui.cofh.redstoneControlOff=Выключено
+gui.cofh.redstoneControlOn=Включено
+gui.cofh.redstoneStateHigh=Высоко
+gui.cofh.redstoneStateIgnored=Игнорировать
+gui.cofh.redstoneStateLow=Низко
+gui.cofh.security=Безопастность
+gui.cofh.sending=Передача
+gui.cofh.signalRequired=Нужный сигнал
+gui.cofh.tutorial=Туториал
+
+gui.cofh.tutorial.fluxRequired=Для работы необходим Redstone Flux.
+gui.cofh.tutorial.tabConfiguration=Эта конфигурация определяет как предметы попадают и покидают машину.
+gui.cofh.tutorial.tabConfiguration2=Вкладка конфигурации настраивает режим работы этой машины.
+gui.cofh.tutorial.tabRedstone=Вкладка Красного Контроля настраивает поведение машины на красный сигнал.
+
+info.cofh.charge=Заряд
+info.cofh.damageAttack=Урон
+info.cofh.damageFlux=Урон Flux
+
+info.cofh.lexicon1=Конвертирует предметы в их эквивалентные формы.
+info.cofh.lexicon2=ПКМ (открыть), чтобы изучить.
+info.cofh.lexicon3=Когда присядете, откройте, дабы обрести мудрость!
+info.cofh.lexicon4=ПКМ (открыть) для трансмутации предметов.
+info.cofh.lexicon5=Когда присядете, откройте, чтобы позабыть знания.
+
+info.cofh.press=Нажать
+
+item.cofh.tool.lexicon.name=Лексикон Forge
+item.cofh.tool.lexiconActive.name=Лексикон Forge (Активен)
+
+item.invalid.name=Неизвестный предмет (Уничтожить)
+
+message.cofh.holdShift1=Нажмите
+message.cofh.holdShift2=Shift
+message.cofh.holdShift3=для информации
+
+message.cofh.secure1=Это личная вещь игрока
+message.cofh.secure2=Ты мог потерять свою руку!
+message.cofh.secureWarning=Но: Операторы сервера имеют доступ к приватным блокам.
+
+message.cofh.receiveConfig=Прием конфигурации сервера...
+message.cofh.restoreConfig=Восстанавливание конфигурации клиента...
