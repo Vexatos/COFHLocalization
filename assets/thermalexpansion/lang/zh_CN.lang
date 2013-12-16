@@ -91,6 +91,7 @@ gui.thermalexpansion.activator.clickLeft=左击
 gui.thermalexpansion.activator.clickRight=右击
 gui.thermalexpansion.activator.sneakOn=潜行
 gui.thermalexpansion.activator.sneakOff=未潜行
+gui.thermalexpansion.activator.slotsFirst=First Slot Only
 gui.thermalexpansion.activator.slotsRR=循环赛式使用物品
 gui.thermalexpansion.activator.slotsRand=随机使用物品
 gui.thermalexpansion.activator.angleLow=朝下瞄准

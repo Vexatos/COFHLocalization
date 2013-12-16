@@ -91,6 +91,7 @@ gui.thermalexpansion.activator.clickLeft=Left Click
 gui.thermalexpansion.activator.clickRight=Right Click
 gui.thermalexpansion.activator.sneakOn=Sneaking
 gui.thermalexpansion.activator.sneakOff=Not Sneaking
+gui.thermalexpansion.activator.slotsFirst=First Slot Only
 gui.thermalexpansion.activator.slotsRR=Round Robin Item Use
 gui.thermalexpansion.activator.slotsRand=Randomly Use Items
 gui.thermalexpansion.activator.angleLow=Aim Low
@@ -205,7 +206,6 @@ item.thermalexpansion.material.dustIron.name=Pulverized Iron
 item.thermalexpansion.material.dustGold.name=Pulverized Gold
 item.thermalexpansion.material.dustCoal.name=Pulverized Coal
 item.thermalexpansion.material.dustObsidian.name=Pulverized Obsidian
-item.thermalexpansion.material.dustBronze.name=Bronze Blend
 item.thermalexpansion.material.dustBrass.name=Brass Blend
 
 item.thermalexpansion.material.dustCopper.name=Pulverized Copper
@@ -216,7 +216,7 @@ item.thermalexpansion.material.dustNickel.name=Pulverized Ferrous Metal
 item.thermalexpansion.material.dustPlatinum.name=Pulverized Shiny Metal
 item.thermalexpansion.material.dustElectrum.name=Electrum Blend
 item.thermalexpansion.material.dustInvar.name=Invar Blend
-item.thermalexpansion.material.
+item.thermalexpansion.material.dustBronze.name=Tinker's Alloy Blend
 item.thermalexpansion.material.
 item.thermalexpansion.material.dustEnderium.name=Enderium Blend
 
@@ -228,7 +228,7 @@ item.thermalexpansion.material.ingotNickel.name=Ferrous Ingot
 item.thermalexpansion.material.ingotPlatinum.name=Shiny Ingot
 item.thermalexpansion.material.ingotElectrum.name=Electrum Ingot
 item.thermalexpansion.material.ingotInvar.name=Invar Ingot
-item.thermalexpansion.material.
+item.thermalexpansion.material.ingotBronze.name=Tinker's Alloy Ingot
 item.thermalexpansion.material.
 item.thermalexpansion.material.ingotEnderium.name=Enderium Ingot
 
@@ -240,7 +240,7 @@ item.thermalexpansion.material.nuggetNickel.name=Ferrous Nugget
 item.thermalexpansion.material.nuggetPlatinum.name=Shiny Nugget
 item.thermalexpansion.material.nuggetElectrum.name=Electrum Nugget
 item.thermalexpansion.material.nuggetInvar.name=Invar Nugget
-item.thermalexpansion.material.
+item.thermalexpansion.material.nuggetBronze.name=Tinker's Alloy Nugget
 item.thermalexpansion.material.
 item.thermalexpansion.material.nuggetEnderium.name=Enderium Nugget
 
@@ -265,6 +265,7 @@ item.thermalexpansion.material.gearCopper.name=Copper Gear
 item.thermalexpansion.material.gearTin.name=Tin Gear
 item.thermalexpansion.material.gearElectrum.name=Electrum Gear
 item.thermalexpansion.material.gearInvar.name=Invar Gear
+item.thermalexpansion.material.gearBronze.name=Tinker's Alloy Gear
 item.thermalexpansion.material.gearEnderium.name=Enderium Gear
 
 item.thermalexpansion.material.rodBlizz.name=Blizz Rod
@@ -319,6 +320,7 @@ tile.thermalexpansion.device.lexicon.name=Forge Lexicon
 tile.thermalexpansion.dynamo.steam.name=Steam Dynamo
 tile.thermalexpansion.dynamo.magmatic.name=Magmatic Dynamo
 tile.thermalexpansion.dynamo.compression.name=Compression Dynamo
+tile.thermalexpansion.dynamo.reactant.name=Reactant Dynamo
 
 tile.thermalexpansion.energycell.creative.name=Creative Energy Cell
 tile.thermalexpansion.energycell.basic.name=Leadstone Energy Cell
@@ -386,7 +388,7 @@ tile.thermalexpansion.storage.nickel.name=Ferrous Block
 tile.thermalexpansion.storage.platinum.name=Shiny Block
 tile.thermalexpansion.storage.electrum.name=Electrum Block
 tile.thermalexpansion.storage.invar.name=Invar Block
-tile.thermalexpansion.storage.
+tile.thermalexpansion.storage.bronze.name=Tinker's Alloy Block
 tile.thermalexpansion.storage.
 tile.thermalexpansion.storage.enderium.name=Enderium Block
 

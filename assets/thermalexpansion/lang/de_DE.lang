@@ -91,6 +91,7 @@ gui.thermalexpansion.activator.clickLeft=Linksklick
 gui.thermalexpansion.activator.clickRight=Rechtsklick
 gui.thermalexpansion.activator.sneakOn=Schleichen
 gui.thermalexpansion.activator.sneakOff=Nicht Schleichen
+gui.thermalexpansion.activator.slotsFirst=Nur Der Erste Item
 gui.thermalexpansion.activator.slotsRR=RoundRobin-Itemnutzung
 gui.thermalexpansion.activator.slotsRand=Nutze Items willkürlich
 gui.thermalexpansion.activator.angleLow=Ziel Niedrig
