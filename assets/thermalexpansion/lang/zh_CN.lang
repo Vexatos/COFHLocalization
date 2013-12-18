@@ -1,66 +1,67 @@
 #zh_CN
 
-achievement.te.base=欢迎使用热能扩展!
-achievement.te.base.desc=就这样开始我们的旅途吧.
-achievement.te.machineFrame=框架!
-achievement.te.machineFrame.desc=你也许得制造很多这玩意儿.
+achievement.thermalexpansion.base=欢迎使用热能扩展!
+achievement.thermalexpansion.base.desc=就这样开始我们的旅途吧.
+achievement.thermalexpansion.machineFrame=框架!
+achievement.thermalexpansion.machineFrame.desc=你也许得制造很多这玩意儿.
 
-achievement.te.furnace=蠢货才用煤炭!
-achievement.te.furnace.desc=高大上地烧东西!
-achievement.te.pulverizer=机械粉碎者!
-achievement.te.pulverizer.desc=孱弱的矿石.
-achievement.te.sawmill=讨厌树, 热爱原木.
-achievement.te.sawmill.desc=喜欢伐木, 但求更好.
-achievement.te.smelter=两个锭进入, 一个锭出来
-achievement.te.smelter.desc=非常肯定不能用来烤吃的.
-achievement.te.crucible=熔炼万物
-achievement.te.crucible.desc=是的,它能做岩浆.你这怪物.
-achievement.te.transposer=(基本上能够)自由填充
-achievement.te.transposer.desc=手动装桶太累人.
-achievement.te.iceGen=打雪仗!
-achievement.te.iceGen.desc=造不出黄雪.
-achievement.te.rockGen=嘿这是石头!
-achievement.te.rockGen.desc=还有黑曜石呢!
-achievement.te.waterGen=水,无处不水
-achievement.te.waterGen.desc=不, 岩浆可不行. 你这怪物.
-achievement.te.assembler=恶性循环
-achievement.te.assembler.desc=不, 它不能那样子合成东西.
-achievement.te.charger=什么是RF?
-achievement.te.charger.desc=RF没有界限. 所以看你的手.
+achievement.thermalexpansion.furnace=蠢货才用煤炭!
+achievement.thermalexpansion.furnace.desc=高大上地烧东西!
+achievement.thermalexpansion.pulverizer=机械粉碎者!
+achievement.thermalexpansion.pulverizer.desc=孱弱的矿石.
+achievement.thermalexpansion.sawmill=讨厌树, 热爱原木.
+achievement.thermalexpansion.sawmill.desc=喜欢伐木, 但求更好.
+achievement.thermalexpansion.smelter=两个锭进入, 一个锭出来
+achievement.thermalexpansion.smelter.desc=非常肯定不能用来烤吃的.
+achievement.thermalexpansion.crucible=熔炼万物
+achievement.thermalexpansion.crucible.desc=是的,它能做岩浆.你这怪物.
+achievement.thermalexpansion.transposer=(基本上能够)自由填充
+achievement.thermalexpansion.transposer.desc=手动装桶太累人.
+achievement.thermalexpansion.iceGen=打雪仗!
+achievement.thermalexpansion.iceGen.desc=造不出黄雪.
+achievement.thermalexpansion.rockGen=嘿这是石头!
+achievement.thermalexpansion.rockGen.desc=还有黑曜石呢!
+achievement.thermalexpansion.waterGen=水,无处不水
+achievement.thermalexpansion.waterGen.desc=不, 岩浆可不行. 你这怪物.
+achievement.thermalexpansion.assembler=恶性循环
+achievement.thermalexpansion.assembler.desc=不, 它不能那样子合成东西.
+achievement.thermalexpansion.charger=什么是RF?
+achievement.thermalexpansion.charger.desc=RF没有界限. 所以看你的手.
 
-achievement.te.lexicon=矿物辞典
-achievement.te.lexicon.desc=看啊那矿物辞典的力量!
+achievement.thermalexpansion.wrench=看着像指甲!
+achievement.thermalexpansion.wrench.desc=如果你*真*需要任何工具的话, 试试这柄锤子.
+achievement.thermalexpansion.multimeter=B.S.E.E.
+achievement.thermalexpansion.multimeter.desc=毫无意外, 唯有侥幸.
+achievement.thermalexpansion.florb=我能扔这个吗?!
+achievement.thermalexpansion.florb.desc=它装着流体. 你扔扔看呗.
+achievement.thermalexpansion.florbMagmatic=看世界熊熊燃烧.
+achievement.thermalexpansion.florbMagmatic=流体球. 是的, 它装着岩浆. 你这怪物.
 
-achievement.te.wrench=看着像指甲!
-achievement.te.wrench.desc=如果你*真*需要任何工具的话, 试试这柄锤子.
-achievement.te.multimeter=B.S.E.E.
-achievement.te.multimeter.desc=毫无意外, 唯有侥幸.
-achievement.te.florb=我能扔这个吗?!
-achievement.te.florb.desc=它装着流体. 你扔扔看呗.
-achievement.te.florbMagmatic=看世界熊熊燃烧.
-achievement.te.florbMagmatic=流体球. 是的, 它装着岩浆. 你这怪物.
+achievement.thermalexpansion.potatoBattery=考虑不周的念头!
+achievement.thermalexpansion.potatoBattery.desc=马那个铃那个薯
 
-achievement.te.potatoBattery=考虑不周的念头!
-achievement.te.potatoBattery.desc=马那个铃那个薯
+achievement.thermalexpansion.fluidRedstone=红石革命!
+achievement.thermalexpansion.fluidRedstone.desc=世界虽未颠倒, 但已不同.
+achievement.thermalexpansion.fluidGlowstone=它流走了?!
+achievement.thermalexpansion.fluidGlowstone.desc=因此这些形态转换就是这样发生的. 现在一切已毫无意义.
+achievement.thermalexpansion.fluidEnder=千丝万缕, 摇摇晃晃, 乱七八糟, 随风飘荡.
+achievement.thermalexpansion.fluidEnder.desc=末地实际上才是开始.
+achievement.thermalexpansion.fluidPyrotheum=噢上帝啊为什么呢?!
+achievement.thermalexpansion.fluidPyrotheum.desc=这比岩浆还要糟. 你这怪物.
+achievement.thermalexpansion.fluidCryotheum=凛冬将至
+achievement.thermalexpansion.fluidCryotheum.desc=这依然比岩浆糟. 你这雪怪.
+achievement.thermalexpansion.fluidCoal=液化就是救赎!
+achievement.thermalexpansion.fluidCoal.desc=这*可能*对环境不好!
 
-achievement.te.fluidRedstone=红石革命!
-achievement.te.fluidRedstone.desc=世界虽未颠倒, 但已不同.
-achievement.te.fluidGlowstone=它流走了?!
-achievement.te.fluidGlowstone.desc=因此这些形态转换就是这样发生的. 现在一切已毫无意义.
-achievement.te.fluidEnder=千丝万缕, 摇摇晃晃, 乱七八糟, 随风飘荡.
-achievement.te.fluidEnder.desc=末地实际上才是开始.
-achievement.te.fluidPyrotheum=噢上帝啊为什么呢?!
-achievement.te.fluidPyrotheum.desc=这比岩浆还要糟. 你这怪物.
-achievement.te.fluidCryotheum=凛冬将至
-achievement.te.fluidCryotheum.desc=这依然比岩浆糟. 你这雪怪.
-achievement.te.fluidCoal=液化就是救赎!
-achievement.te.fluidCoal.desc=这*可能*对环境不好!
+#death.attack.pyrotheum
+#death.attack.pyrotheum.player
+#death.attack.cryotheum
+#death.attack.cryotheum.player
+#death.attack.mana
+#death.attack.mana.player
+#death.attack.blizz
 
-fluid.tile.water=水
-fluid.tile.lava=岩浆
-
-fluid.fuel=燃油
-fluid.oil=原油
+entity.Blizz.name=Blizz
 
 fluid.redstone=不稳定熔融红石
 fluid.glowstone=充能液态荧石
@@ -70,67 +71,76 @@ fluid.cryotheum=极寒之凛冰
 fluid.coal=液态煤炭
 fluid.steam=蒸汽
 
-gui.thermalexpansion.schematic=图纸
+info.thermalexpansion.schematic=图纸
 
-gui.thermalexpansion.modeItem=物品模式
-gui.thermalexpansion.modeFluid=流体模式
-gui.thermalexpansion.modeEnergy=能量模式
-gui.thermalexpansion.modeBlocked=已阻塞
-gui.thermalexpansion.modeSend=仅发送
-gui.thermalexpansion.modeRecv=仅接收
-gui.thermalexpansion.modeSendRecv=发生/接收
+info.thermalexpansion.modeItem=物品模式
+info.thermalexpansion.modeFluid=流体模式
+info.thermalexpansion.modeEnergy=能量模式
+info.thermalexpansion.modeBlocked=已阻塞
+info.thermalexpansion.modeSend=仅发送
+info.thermalexpansion.modeRecv=仅接收
+info.thermalexpansion.modeSendRecv=发生/接收
 
-gui.thermalexpansion.neihandler.furnace=红石炉
-gui.thermalexpansion.neihandler.pulverizer=磨粉机
-gui.thermalexpansion.neihandler.sawmill=锯木机
-gui.thermalexpansion.neihandler.smelter=感应炉
-gui.thermalexpansion.neihandler.crucible=熔岩炉
-gui.thermalexpansion.neihandler.transposer=流体转置器
+info.thermalexpansion.neihandler.furnace=红石炉
+info.thermalexpansion.neihandler.pulverizer=磨粉机
+info.thermalexpansion.neihandler.sawmill=锯木机
+info.thermalexpansion.neihandler.smelter=感应炉
+info.thermalexpansion.neihandler.crucible=熔岩炉
+info.thermalexpansion.neihandler.transposer=流体转置器
 
-gui.thermalexpansion.activator.clickLeft=左击
-gui.thermalexpansion.activator.clickRight=右击
-gui.thermalexpansion.activator.sneakOn=潜行
-gui.thermalexpansion.activator.sneakOff=未潜行
-gui.thermalexpansion.activator.slotsFirst=First Slot Only
-gui.thermalexpansion.activator.slotsRR=循环赛式使用物品
-gui.thermalexpansion.activator.slotsRand=随机使用物品
-gui.thermalexpansion.activator.angleLow=朝下瞄准
-gui.thermalexpansion.activator.angleLevel=水平瞄准
-gui.thermalexpansion.activator.angleHigh=向上瞄准
+info.thermalexpansion.activator.clickLeft=左击
+info.thermalexpansion.activator.clickRight=右击
+info.thermalexpansion.activator.sneakOn=潜行
+info.thermalexpansion.activator.sneakOff=未潜行
+#info.thermalexpansion.activator.slotsFirst
+info.thermalexpansion.activator.slotsRR=循环赛式使用物品
+info.thermalexpansion.activator.slotsRand=随机使用物品
+info.thermalexpansion.activator.angleLow=朝下瞄准
+info.thermalexpansion.activator.angleLevel=水平瞄准
+info.thermalexpansion.activator.angleHigh=向上瞄准
 
-gui.thermalexpansion.cell.decRecv=减少RF输入通过
-gui.thermalexpansion.cell.decSend=减少RF输出通过
-gui.thermalexpansion.cell.incRecv=增加RF输入通过
-gui.thermalexpansion.cell.incSend=增加RF输入通过
-gui.thermalexpansion.cell.maxIn=最大输入
-gui.thermalexpansion.cell.maxOut=最大输出
+info.thermalexpansion.cell.decRecv=减少RF输入通过
+info.thermalexpansion.cell.decSend=减少RF输出通过
+info.thermalexpansion.cell.incRecv=增加RF输入通过
+info.thermalexpansion.cell.incSend=增加RF输入通过
+info.thermalexpansion.cell.maxIn=最大输入
+info.thermalexpansion.cell.maxOut=最大输出
 
-gui.thermalexpansion.itemfilter0=物品过滤: 下方
-gui.thermalexpansion.itemfilter1=物品过滤: 上方
-gui.thermalexpansion.itemfilter2=物品过滤: 北方
-gui.thermalexpansion.itemfilter3=物品过滤: 南方
-gui.thermalexpansion.itemfilter4=物品过滤: 西方
-gui.thermalexpansion.itemfilter5=物品过滤: 东方
+info.thermalexpansion.itemfilter0=物品过滤: 下方
+info.thermalexpansion.itemfilter1=物品过滤: 上方
+info.thermalexpansion.itemfilter2=物品过滤: 北方
+info.thermalexpansion.itemfilter3=物品过滤: 南方
+info.thermalexpansion.itemfilter4=物品过滤: 西方
+info.thermalexpansion.itemfilter5=物品过滤: 东方
 
-gui.thermalexpansion.itemfilter.listBlack=黑名单
-gui.thermalexpansion.itemfilter.listWhite=白名单
-gui.thermalexpansion.itemfilter.metadataOn=使用Meta数据
-gui.thermalexpansion.itemfilter.metadataOff=忽略Meta数据
-gui.thermalexpansion.itemfilter.oreDictOn=使用矿物辞典
-gui.thermalexpansion.itemfilter.oreDictOff=忽略矿物辞典
-gui.thermalexpansion.itemfilter.nbtOn=使用NBT
-gui.thermalexpansion.itemfilter.nbtOff=忽略NBT
+info.thermalexpansion.itemfilter.listBlack=黑名单
+info.thermalexpansion.itemfilter.listWhite=白名单
+info.thermalexpansion.itemfilter.metadataOn=使用Meta数据
+info.thermalexpansion.itemfilter.metadataOff=忽略Meta数据
+info.thermalexpansion.itemfilter.oreDictOn=使用矿物辞典
+info.thermalexpansion.itemfilter.oreDictOff=忽略矿物辞典
+info.thermalexpansion.itemfilter.nbtOn=使用NBT
+info.thermalexpansion.itemfilter.nbtOff=忽略NBT
+#info.thermalexpansion.itemfilter.incSend
+#info.thermalexpansion.itemfilter.decSend
+#info.thermalexpansion.itemfilter.maxSend
 
-gui.thermalexpansion.fluidfilter=流体过滤
+info.thermalexpansion.fluidfilter=流体过滤
 
-gui.thermalexpansion.transposer.toggleEmpty=激活: 空置
-gui.thermalexpansion.transposer.toggleFill=激活:填充
-gui.thermalexpansion.transposer.toggleWait=已激活
+info.thermalexpansion.transposer.toggleEmpty=激活: 空置
+info.thermalexpansion.transposer.toggleFill=激活:填充
+info.thermalexpansion.transposer.toggleWait=已激活
 
-gui.thermalexpansion.workbench.gridClear=清空合成网格
-gui.thermalexpansion.workbench.gridSet=根据图纸设置合成网格
-gui.thermalexpansion.workbench.writeTrue=写入图纸
-gui.thermalexpansion.workbench.writeFalse=无合成表
+info.thermalexpansion.workbench.gridClear=清空合成网格
+info.thermalexpansion.workbench.gridSet=根据图纸设置合成网格
+info.thermalexpansion.workbench.writeTrue=写入图纸
+info.thermalexpansion.workbench.writeFalse=无合成表
+
+#info.thermalexpansion.capacitor1
+#info.thermalexpansion.capacitor2
+#info.thermalexpansion.capacitor3
+#info.thermalexpansion.capacitor4
+#info.thermalexpansion.capacitor.potato
 
 info.thermalexpansion.conduit.energy=传输RF能量.
 info.thermalexpansion.conduit.fluid1=传输流体.
@@ -206,8 +216,6 @@ item.thermalexpansion.material.dustIron.name=铁粉
 item.thermalexpansion.material.dustGold.name=金粉
 item.thermalexpansion.material.dustCoal.name=煤粉
 item.thermalexpansion.material.dustObsidian.name=黑曜石粉
-item.thermalexpansion.material.dustBronze.name=青铜粉
-item.thermalexpansion.material.dustBrass.name=黄铜粉
 
 item.thermalexpansion.material.dustCopper.name=铜粉
 item.thermalexpansion.material.dustTin.name=锡粉
@@ -217,8 +225,7 @@ item.thermalexpansion.material.dustNickel.name=镍粉
 item.thermalexpansion.material.dustPlatinum.name=铂粉
 item.thermalexpansion.material.dustElectrum.name=琥珀金粉
 item.thermalexpansion.material.dustInvar.name=因瓦合金粉
-item.thermalexpansion.material.
-item.thermalexpansion.material.
+item.thermalexpansion.material.dustBronze.name=青铜粉
 item.thermalexpansion.material.dustEnderium.name=末影粉
 
 item.thermalexpansion.material.ingotCopper.name=铜锭
@@ -229,8 +236,7 @@ item.thermalexpansion.material.ingotNickel.name=镍锭
 item.thermalexpansion.material.ingotPlatinum.name=铂锭
 item.thermalexpansion.material.ingotElectrum.name=琥珀金锭
 item.thermalexpansion.material.ingotInvar.name=因瓦合金锭
-item.thermalexpansion.material.
-item.thermalexpansion.material.
+#item.thermalexpansion.material.ingotBronze.name
 item.thermalexpansion.material.ingotEnderium.name=末影锭
 
 item.thermalexpansion.material.nuggetCopper.name=铜粒
@@ -241,8 +247,7 @@ item.thermalexpansion.material.nuggetNickel.name=镍粒
 item.thermalexpansion.material.nuggetPlatinum.name=铂粒
 item.thermalexpansion.material.nuggetElectrum.name=琥珀金粒
 item.thermalexpansion.material.nuggetInvar.name=因瓦合金粒
-item.thermalexpansion.material.
-item.thermalexpansion.material.
+#item.thermalexpansion.material.nuggetBronze.name
 item.thermalexpansion.material.nuggetEnderium.name=末影粒
 
 item.thermalexpansion.material.dustSulfur.name=硫磺
@@ -266,6 +271,7 @@ item.thermalexpansion.material.gearCopper.name=铜齿轮
 item.thermalexpansion.material.gearTin.name=锡齿轮
 item.thermalexpansion.material.gearElectrum.name=琥珀金齿轮
 item.thermalexpansion.material.gearInvar.name=因瓦合金齿轮
+item.thermalexpansion.material.gearBronze.name=
 item.thermalexpansion.material.gearEnderium.name=末影齿轮
 
 item.thermalexpansion.material.rodBlizz.name=暴雪棒
@@ -290,8 +296,9 @@ message.thermalexpansion.conduit.item.warn0=导管内阻塞的物品空间已被
 message.thermalexpansion.conduit.item.warn1=导管内包含超过64个阻塞物品!
 message.thermalexpansion.conduit.item.warn2=再敲打会拆掉导管丢失其中的物品,先将它清空吧!
 
-message.thermalexpansion.conduit.servo0=气动伺服器已安装!
-message.thermalexpansion.conduit.servo1=已经安装过气动伺服器!
+#message.thermalexpansion.conduit.servo0
+message.thermalexpansion.conduit.servo1=气动伺服器已安装!
+message.thermalexpansion.conduit.servo2=已经安装过气动伺服器!
  
 message.thermalexpansion.lamp0=模式: 已切换; 默认: 关闭
 message.thermalexpansion.lamp1=模式: 已切换; 默认: 开启
@@ -320,6 +327,7 @@ tile.thermalexpansion.device.lexicon.name=矿物辞典
 tile.thermalexpansion.dynamo.steam.name=蒸汽能源炉
 tile.thermalexpansion.dynamo.magmatic.name=热力能源炉
 tile.thermalexpansion.dynamo.compression.name=压缩能源炉
+#tile.thermalexpansion.dynamo.reactant.name
 
 tile.thermalexpansion.energycell.creative.name=创造能量单元
 tile.thermalexpansion.energycell.basic.name=能量单元
@@ -387,8 +395,7 @@ tile.thermalexpansion.storage.nickel.name=镍块
 tile.thermalexpansion.storage.platinum.name=铂块
 tile.thermalexpansion.storage.electrum.name=琥珀金块
 tile.thermalexpansion.storage.invar.name=因瓦合金块
-tile.thermalexpansion.storage.
-tile.thermalexpansion.storage.
+tile.thermalexpansion.storage.bronze.name
 tile.thermalexpansion.storage.enderium.name=末影块
 
 tile.thermalexpansion.strongbox.creative.name=创造保险箱
@@ -404,3 +411,8 @@ tile.thermalexpansion.tank.reinforced.name=强化便携储罐
 tile.thermalexpansion.tank.resonant.name=谐振便携储罐
 
 tile.thermalexpansion.tesseract.name=超立方体
+
+fluid.tile.water=水
+fluid.tile.lava=岩浆
+fluid.fuel=燃油
+fluid.oil=原油

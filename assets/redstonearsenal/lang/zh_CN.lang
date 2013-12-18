@@ -1,6 +1,7 @@
 #zh_CN
 
 death.attack.flux=有其他人咬到了RF!
+#death.attack.flux.player
 
 info.redstonearsenal.tool.chargeOn=按住Alt键+右击蓄力
 info.redstonearsenal.tool.chargeOff=按住Alt键+右击释放
@@ -25,6 +26,8 @@ item.redstonearsenal.tool.sickle.name=RF充能镰刀
 item.redstonearsenal.tool.bow.name=RF充能弓
 
 itemGroup.redstonearsenal.creativeTab=红石兵工厂
+
+#keybind.redstonearsenal.empower
 
 tile.redstonearsenal.storage.electrumFlux.name=RF琥珀金块
 tile.redstonearsenal.storage.crystalFlux.name=RF水晶块

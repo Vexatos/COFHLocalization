@@ -1,6 +1,7 @@
 #en_US
 
-death.attack.flux=Another one bites the Flux!
+death.attack.flux=%1$s had their reality torn apart by Flux!
+death.attack.flux.player=%1$s was Fluxed to death by %2$s!
 
 info.redstonearsenal.tool.chargeOn=to Empower
 info.redstonearsenal.tool.chargeOff=to Quell

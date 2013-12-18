@@ -1,54 +1,60 @@
 #de_DE
 
-gui.cofh.accessMode=Zugriffsmodus
-gui.cofh.accessPublic=Öffentlich
-gui.cofh.accessRestricted=Eingeschränkt
-gui.cofh.accessPrivate=Nur Besitzer
-gui.cofh.all=Alles
-gui.cofh.blank=Leer
-gui.cofh.configuration=Konfiguration
-gui.cofh.controlStatus=Kontrollstatus
-gui.cofh.empty=Leer
-gui.cofh.energy=Energie
-gui.cofh.energyConsume=Energieverbrauch
-gui.cofh.energyProduce=Energie-Output
-gui.cofh.energyStored=Energiespeicher
-gui.cofh.fluid=Flüssigkeit
-gui.cofh.friendsList=Freundesliste
-gui.cofh.information=Information
-gui.cofh.items=Items
-gui.cofh.maxEnergyPerTick=Energiemaximum
-gui.cofh.none=Niemand
-gui.cofh.owner=Besitzer
-gui.cofh.receiving=Empfangend
-gui.cofh.redstoneControl=Redstonekontrolle
-gui.cofh.redstoneControlOff=Deaktiviert
-gui.cofh.redstoneControlOn=Aktiviert
-gui.cofh.redstoneStateHigh=High
-gui.cofh.redstoneStateIgnored=Ignorieren
-gui.cofh.redstoneStateLow=Low
-gui.cofh.security=Sicherheit
-gui.cofh.sending=Sendend
-gui.cofh.signalRequired=Signal benötigt
-gui.cofh.tutorial=Tutorial
-
-gui.cofh.tutorial.fluxRequired=Benötigt Redstone-Flux zum Arbeiten.
-gui.cofh.tutorial.tabConfiguration=Der Konfigurations-Tab bestimmt, wie Items dieses Gerät erreichen und verlassen.
-gui.cofh.tutorial.tabConfiguration2=Der Konfigurations-Tab bestimmt die Operations-Modi dieses Gerätes.
-gui.cofh.tutorial.tabRedstone=Der Redstone-Kontroll-Tab konfiguriert, wie dieses Gerät auf Redstone-Signale reagiert.
-
+#info.cofh.access
+info.cofh.accessMode=Zugriffsmodus
+info.cofh.accessPublic=Öffentlich
+info.cofh.accessRestricted=Eingeschränkt
+info.cofh.accessPrivate=Nur Besitzer
+info.cofh.all=Alles
+info.cofh.blank=Leer
 info.cofh.charge=Ladung
+info.cofh.configuration=Konfiguration
+#info.cofh.contents
+info.cofh.controlStatus=Kontrollstatus
 info.cofh.damageAttack=Angriffsschaden
 info.cofh.damageFlux=Flux-Schaden
+info.cofh.empty=Leer
+info.cofh.energy=Energie
+info.cofh.energyConsume=Energieverbrauch
+info.cofh.energyProduce=Energie-Output
+info.cofh.energyStored=Energiespeicher
+info.cofh.fluid=Flüssigkeit
+#info.cofh.frequency
+info.cofh.friendsList=Freundesliste
+info.cofh.information=Information
+#info.cofh.infinite
+info.cofh.items=Items
+#info.cofh.level
+info.cofh.maxEnergyPerTick=Energiemaximum
+info.cofh.none=Niemand
+info.cofh.owner=Besitzer
+info.cofh.press=Drücke
+#info.cofh.receive
+info.cofh.receiving=Empfangend
+info.cofh.redstoneControl=Redstonekontrolle
+info.cofh.redstoneControlOff=Deaktiviert
+info.cofh.redstoneControlOn=Aktiviert
+info.cofh.redstoneStateHigh=High
+info.cofh.redstoneStateIgnored=Ignorieren
+info.cofh.redstoneStateLow=Low
+info.cofh.security=Sicherheit
+#info.cofh.send
+info.cofh.sending=Sendend
+#info.cofh.signal
+info.cofh.signalRequired=Signal benötigt
+#info.cofh.source
+info.cofh.tutorial=Tutorial
+
+info.cofh.tutorial.fluxRequired=Benötigt Redstone-Flux zum Arbeiten.
+info.cofh.tutorial.tabConfiguration=Der Konfigurations-Tab bestimmt, wie Items dieses Gerät erreichen und verlassen.
+info.cofh.tutorial.tabConfiguration2=Der Konfigurations-Tab bestimmt die Operations-Modi dieses Gerätes.
+info.cofh.tutorial.tabRedstone=Der Redstone-Kontroll-Tab konfiguriert, wie dieses Gerät auf Redstone-Signale reagiert.
 
 info.cofh.lexicon1=Konvertiert Items in gleichwertige Formen.
 info.cofh.lexicon2=Rechtsklicke (öffne), um es zu studieren.
 info.cofh.lexicon3=Nutze, während du schleichst, um Weisheit zu bekommen!
 info.cofh.lexicon4=Rechtsklicke (öffne), um Items zu transmutieren.
 info.cofh.lexicon5=Nutze, während du schleichst, um Wissen zu aufzugeben.
-
-info.cofh.press=Drücke
-
 item.cofh.tool.lexicon.name=Forge-Lexikon
 item.cofh.tool.lexiconActive.name=Forge-Lexikon (Aktiv)
 
@@ -57,10 +63,8 @@ item.invalid.name=Ungültiges Item (Zerstören)
 message.cofh.holdShift1=Halte
 message.cofh.holdShift2=Shift
 message.cofh.holdShift3=für Details
-
 message.cofh.secure1=Dies ist privat und gehört
 message.cofh.secure2=Du hättest deine Hand verlieren können!
 message.cofh.secureWarning=Anmerkung: Server Ops sind auf diesem Server fähig, frei auf 'sichere' Blöcke zuzugreifen.
-
 message.cofh.receiveConfig=Empfange Server-Konfiguration...
 message.cofh.restoreConfig=Client-Konfiguration wiederherstellen...
