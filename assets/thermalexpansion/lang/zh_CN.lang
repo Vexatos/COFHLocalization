@@ -106,6 +106,10 @@ info.thermalexpansion.cell.incSend=增加RF输入通过
 info.thermalexpansion.cell.maxIn=最大输入
 info.thermalexpansion.cell.maxOut=最大输出
 
+info.thermalexpansion.fluidfilter=流体过滤
+
+#info.thermalexpansion.itemhud.stuffed
+
 info.thermalexpansion.itemfilter0=物品过滤: 下方
 info.thermalexpansion.itemfilter1=物品过滤: 上方
 info.thermalexpansion.itemfilter2=物品过滤: 北方
@@ -124,8 +128,6 @@ info.thermalexpansion.itemfilter.nbtOff=忽略NBT
 #info.thermalexpansion.itemfilter.incSend
 #info.thermalexpansion.itemfilter.decSend
 #info.thermalexpansion.itemfilter.maxSend
-
-info.thermalexpansion.fluidfilter=流体过滤
 
 info.thermalexpansion.transposer.toggleEmpty=激活: 空置
 info.thermalexpansion.transposer.toggleFill=激活:填充

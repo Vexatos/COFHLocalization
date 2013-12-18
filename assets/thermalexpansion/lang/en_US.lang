@@ -106,6 +106,10 @@ info.thermalexpansion.cell.incSend=Increase RF Output by
 info.thermalexpansion.cell.maxIn=Max Input
 info.thermalexpansion.cell.maxOut=Max Output
 
+info.thermalexpansion.fluidfilter=Fluid Filter
+
+info.thermalexpansion.itemhud.stuffed=Stuffed Items
+
 info.thermalexpansion.itemfilter0=Item Filter: Bottom
 info.thermalexpansion.itemfilter1=Item Filter: Top
 info.thermalexpansion.itemfilter2=Item Filter: North
@@ -124,8 +128,6 @@ info.thermalexpansion.itemfilter.nbtOff=Ignore NBT
 info.thermalexpansion.itemfilter.incSend=Increase Sending Stack Size by
 info.thermalexpansion.itemfilter.decSend=Decrease Sending Stack Size by
 info.thermalexpansion.itemfilter.maxSend=Stacksize
-
-info.thermalexpansion.fluidfilter=Fluid Filter
 
 info.thermalexpansion.transposer.toggleEmpty=Toggle: Empty
 info.thermalexpansion.transposer.toggleFill=Toggle: Fill
