@@ -1,7 +1,7 @@
 #de_DE
 
-death.attack.flux=Und wieder wurde jemand zu Tode gefluxt!
-#death.attack.flux.player
+death.attack.flux=Die Realität von %1$s wurde durch Flux auseinandergerissen!
+death.attack.flux.player=%1$s wurde von %2$s zu Tode gefluxt!
 
 info.redstonearsenal.tool.chargeOn=, um zu ermächtigen
 info.redstonearsenal.tool.chargeOff=, um zu bändigen
