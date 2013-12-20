@@ -9,7 +9,7 @@ info.cofh.all=Alles
 info.cofh.blank=Leer
 info.cofh.charge=Ladung
 info.cofh.configuration=Konfiguration
-#info.cofh.contents
+info.cofh.contents=Inhalt
 info.cofh.controlStatus=Kontrollstatus
 info.cofh.damageAttack=Angriffsschaden
 info.cofh.damageFlux=Flux-Schaden
@@ -19,17 +19,17 @@ info.cofh.energyConsume=Energieverbrauch
 info.cofh.energyProduce=Energie-Output
 info.cofh.energyStored=Energiespeicher
 info.cofh.fluid=Flüssigkeit
-#info.cofh.frequency
+info.cofh.frequency=Frequenz
 info.cofh.friendsList=Freundesliste
 info.cofh.information=Information
-#info.cofh.infinite
+info.cofh.infinite=Unendlich
 info.cofh.items=Items
-#info.cofh.level
+info.cofh.level=Level
 info.cofh.maxEnergyPerTick=Energiemaximum
 info.cofh.none=Niemand
 info.cofh.owner=Besitzer
 info.cofh.press=Drücke
-#info.cofh.receive
+info.cofh.receive=Empfangen
 info.cofh.receiving=Empfangend
 info.cofh.redstoneControl=Redstonekontrolle
 info.cofh.redstoneControlOff=Deaktiviert
@@ -38,11 +38,11 @@ info.cofh.redstoneStateHigh=High
 info.cofh.redstoneStateIgnored=Ignorieren
 info.cofh.redstoneStateLow=Low
 info.cofh.security=Sicherheit
-#info.cofh.send
+info.cofh.send=Senden
 info.cofh.sending=Sendend
-#info.cofh.signal
+info.cofh.signal=Signal
 info.cofh.signalRequired=Signal benötigt
-#info.cofh.source
+info.cofh.source=Quelle
 info.cofh.tutorial=Tutorial
 
 info.cofh.tutorial.fluxRequired=Benötigt Redstone-Flux zum Arbeiten.
