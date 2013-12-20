@@ -53,13 +53,13 @@ achievement.thermalexpansion.fluidCryotheum.desc=Dies ist auch schlimmer als Lav
 achievement.thermalexpansion.fluidCoal=Liquifaktion ist die Rettung!
 achievement.thermalexpansion.fluidCoal.desc=Dies kann *vielleicht* nicht gut für die Umwelt sein.
 
-#death.attack.pyrotheum
-#death.attack.pyrotheum.player
-#death.attack.cryotheum
-#death.attack.cryotheum.player
-#death.attack.mana
-#death.attack.mana.player
-#death.attack.blizz
+death.attack.pyrotheum=%1$s verwechelte Pyrotheum mit Wasser!
+death.attack.pyrotheum.player=%1$s wurde lebendig verbrannt, während er vor %2$s floh!
+death.attack.cryotheum=%1$s fror zu Tode!
+death.attack.cryotheum.player=%1$s fror zu Tode, während er vor %2$s floh!
+death.attack.mana=%1$s wurde von rohem Mana zerfetzt!
+death.attack.mana.player=%1$s floss in einen anderen Daseinszustand, während er vor %2$s floh!
+death.attack.blizz=%1$s fand einen frostigen Tod!
 
 entity.Blizz.name=Blizz
 
@@ -92,7 +92,7 @@ info.thermalexpansion.activator.clickLeft=Linksklick
 info.thermalexpansion.activator.clickRight=Rechtsklick
 info.thermalexpansion.activator.sneakOn=Schleichen
 info.thermalexpansion.activator.sneakOff=Nicht Schleichen
-info.thermalexpansion.activator.slotsFirst=Nur Das Erste Item
+info.thermalexpansion.activator.slotsFirst=Nur der erste Slot
 info.thermalexpansion.activator.slotsRR=RoundRobin-Itemnutzung
 info.thermalexpansion.activator.slotsRand=Nutze Items willkürlich
 info.thermalexpansion.activator.angleLow=Ziel Niedrig
@@ -108,7 +108,7 @@ info.thermalexpansion.cell.maxOut=Max Output
 
 info.thermalexpansion.fluidfilter=Flüssigkeitsfilter
 
-info.thermalexpansion.itemhud.stuffed=Stuffed Items
+info.thermalexpansion.itemhud.stuffed=Verstopfende Items
 
 info.thermalexpansion.itemfilter0=Item-Filter: Unten
 info.thermalexpansion.itemfilter1=Item-Filter: Oben
@@ -125,9 +125,9 @@ info.thermalexpansion.itemfilter.oreDictOn=Nutze Ore Dictionary
 info.thermalexpansion.itemfilter.oreDictOff=Ignoriere Ore Dictionary
 info.thermalexpansion.itemfilter.nbtOn=Nutze NBT
 info.thermalexpansion.itemfilter.nbtOff=Ignoriere NBT
-#info.thermalexpansion.itemfilter.incSend
-#info.thermalexpansion.itemfilter.decSend
-#info.thermalexpansion.itemfilter.maxSend
+info.thermalexpansion.itemfilter.incSend=Erhöhe Sende-Stabelgröße um
+info.thermalexpansion.itemfilter.decSend=Verringere Sende-Stabelgröße um
+info.thermalexpansion.itemfilter.maxSend=Stapelgröße
 
 info.thermalexpansion.transposer.toggleEmpty=Schalte: Leeren
 info.thermalexpansion.transposer.toggleFill=Schalte: Füllen
@@ -138,12 +138,12 @@ info.thermalexpansion.workbench.gridSet=Stelle Werkgitter von Schema ein
 info.thermalexpansion.workbench.writeTrue=Beschreibe Schema
 info.thermalexpansion.workbench.writeFalse=Kein Rezept
 
-#info.thermalexpansion.capacitor1
-#info.thermalexpansion.capacitor2
-#info.thermalexpansion.capacitor3
-#info.thermalexpansion.capacitor4
-#info.thermalexpansion.capacitor5
-#info.thermalexpansion.capacitor.potato
+info.thermalexpansion.capacitor1=Aktiviere, um getragenes Item aufzuladen.
+info.thermalexpansion.capacitor2=Nutze beim Schleichen, um zu aktivieren.
+info.thermalexpansion.capacitor3=Lädt getragene Items.
+info.thermalexpansion.capacitor4=Nutze beim Schleichen, um zu deaktivieren.
+info.thermalexpansion.capacitor5=Muss in der Hotbar bleiben.
+info.thermalexpansion.capacitor.potato=Clever! Aber nicht wiederaufladbar.
 
 info.thermalexpansion.conduit.energy=Transferiert Energie (Redstone Flux).
 info.thermalexpansion.conduit.fluid1=Transferiert Flüssigkeit.
@@ -228,7 +228,7 @@ item.thermalexpansion.material.dustNickel.name=Pulverisiertes Ferröses Metall
 item.thermalexpansion.material.dustPlatinum.name=Pulverisiertes Schillerndes Metall
 item.thermalexpansion.material.dustElectrum.name=Elektrummischung
 item.thermalexpansion.material.dustInvar.name=Invarmischung
-item.thermalexpansion.material.dustBronze.name=Bronzemischung
+item.thermalexpansion.material.dustBronze.name=Bastler-Legierungsmischung
 item.thermalexpansion.material.dustEnderium.name=Enderiummischung
 
 item.thermalexpansion.material.ingotCopper.name=Kupferbarren
@@ -239,7 +239,7 @@ item.thermalexpansion.material.ingotNickel.name=Ferröser Barren
 item.thermalexpansion.material.ingotPlatinum.name=Schillernder Barren
 item.thermalexpansion.material.ingotElectrum.name=Elektrumbarren
 item.thermalexpansion.material.ingotInvar.name=Invarbarren
-item.thermalexpansion.material.ingotBronze.name=Bronzebarren
+item.thermalexpansion.material.ingotBronze.name=Bastler-Legierungsbarren
 item.thermalexpansion.material.ingotEnderium.name=Enderiumbarren
 
 item.thermalexpansion.material.nuggetCopper.name=Kupfernugget
@@ -250,7 +250,7 @@ item.thermalexpansion.material.nuggetNickel.name=Ferröser Nugget
 item.thermalexpansion.material.nuggetPlatinum.name=Schillerndes Nugget
 item.thermalexpansion.material.nuggetElectrum.name=Elektrumnugget
 item.thermalexpansion.material.nuggetInvar.name=Invarnugget
-item.thermalexpansion.material.nuggetBronze.name=Bronzenugget
+item.thermalexpansion.material.nuggetBronze.name=Bastler-Legierungsnugget
 item.thermalexpansion.material.nuggetEnderium.name=Enderiumnugget
 
 item.thermalexpansion.material.dustSulfur.name=Schwefel
@@ -274,7 +274,7 @@ item.thermalexpansion.material.gearCopper.name=Kupferzahnrad
 item.thermalexpansion.material.gearTin.name=Zinnzahnrad
 item.thermalexpansion.material.gearElectrum.name=Elektrumzahnrad
 item.thermalexpansion.material.gearInvar.name=Invarzahnrad
-item.thermalexpansion.material.gearBronze.name=Bronzezahnrad
+item.thermalexpansion.material.gearBronze.name=Bastler-Legierungszahnrad
 item.thermalexpansion.material.gearEnderium.name=Enderiumzahnrad
 
 item.thermalexpansion.material.rodBlizz.name=Blizzrute
@@ -299,7 +299,7 @@ message.thermalexpansion.conduit.item.warn0=Das verstopfte Inventar des Itemdukt
 message.thermalexpansion.conduit.item.warn1=Dieses Itemdukt enthält mehr als 64 gestopfte Items!
 message.thermalexpansion.conduit.item.warn2=Ein weiterer Klick wird es zerlegen, mit Itemverlust! Versuche zuerst, es zu leeren!
 
-#message.thermalexpansion.conduit.servo0
+message.thermalexpansion.conduit.servo0=Ein Pneumatischer Servo muss für Kontrolle installiert sein.
 message.thermalexpansion.conduit.servo1=Der Pneumatische Servo wurde installiert!
 message.thermalexpansion.conduit.servo2=Hier ist bereits ein Pneumatischer Servo installiert!
 
@@ -330,7 +330,7 @@ tile.thermalexpansion.device.lexicon.name=Forge-Lexikon
 tile.thermalexpansion.dynamo.steam.name=Dampfdynamo
 tile.thermalexpansion.dynamo.magmatic.name=Magmatischer Dynamo
 tile.thermalexpansion.dynamo.compression.name=Kompressionsdynamo
-tile.thermalexpansion.dynamo.reactant.name=
+tile.thermalexpansion.dynamo.reactant.name=Reaktantendynamo
 
 tile.thermalexpansion.energycell.creative.name=Kreative Energiezelle
 tile.thermalexpansion.energycell.basic.name=Leadstone-Energiezelle
@@ -398,7 +398,7 @@ tile.thermalexpansion.storage.nickel.name=Ferröser Block
 tile.thermalexpansion.storage.platinum.name=Schillernder Block
 tile.thermalexpansion.storage.electrum.name=Elektrumblock
 tile.thermalexpansion.storage.invar.name=Invarblock
-tile.thermalexpansion.storage.bronze.name=Bronzeblock
+tile.thermalexpansion.storage.bronze.name=Bastler-Legierungsblock
 tile.thermalexpansion.storage.enderium.name=Enderiumblock
 
 tile.thermalexpansion.strongbox.creative.name=Kreativer Tresor
