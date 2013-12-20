@@ -160,6 +160,7 @@ info.thermalexpansion.dynamo.steam1=Benötigt Wasser und festen Brennstoff.
 info.thermalexpansion.dynamo.steam2=Dampf kann stattdessen auch hineingepumpt werden.
 info.thermalexpansion.dynamo.magmatic=Benötigt heiße Flüssigkeiten.
 info.thermalexpansion.dynamo.compression=Benötigt flüssigen Brennstoff und Kühlmittel.
+info.thermalexpansion.dynamo.reactant=Benötigt flüssigen Treibstoff und festen Reaktanten.
 
 info.thermalexpansion.florb1=Hält 1000 mB der meisten Flüssigkeiten.
 info.thermalexpansion.florb1a=Hält 1000 mB der meisten heißen Flüssigkeiten.
