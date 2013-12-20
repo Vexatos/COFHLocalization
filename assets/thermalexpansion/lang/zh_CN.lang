@@ -142,6 +142,7 @@ info.thermalexpansion.workbench.writeFalse=无合成表
 #info.thermalexpansion.capacitor2
 #info.thermalexpansion.capacitor3
 #info.thermalexpansion.capacitor4
+#info.thermalexpansion.capacitor5
 #info.thermalexpansion.capacitor.potato
 
 info.thermalexpansion.conduit.energy=传输RF能量.

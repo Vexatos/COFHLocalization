@@ -142,6 +142,7 @@ info.thermalexpansion.capacitor1=Activate to charge held items.
 info.thermalexpansion.capacitor2=Use while sneaking to activate.
 info.thermalexpansion.capacitor3=Charging held items.
 info.thermalexpansion.capacitor4=Use while sneaking to deactivate.
+info.thermalexpansion.capacitor5=Must remain in hotbar.
 info.thermalexpansion.capacitor.potato=Clever! But not rechargeable.
 
 info.thermalexpansion.conduit.energy=Transfers Energy (Redstone Flux).
