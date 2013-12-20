@@ -160,6 +160,7 @@ info.thermalexpansion.dynamo.steam1=Requires water and solid fuel.
 info.thermalexpansion.dynamo.steam2=Steam may be pumped in instead.
 info.thermalexpansion.dynamo.magmatic=Requires hot fluids.
 info.thermalexpansion.dynamo.compression=Requires fluid fuel and coolant.
+info.thermalexpansion.dynamo.reactant=Requires fluid fuel and solid reactant.
 
 info.thermalexpansion.florb1=Holds 1000 mB of most fluids.
 info.thermalexpansion.florb1a=Holds 1000 mB of most hot fluids.
