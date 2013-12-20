@@ -125,8 +125,8 @@ info.thermalexpansion.itemfilter.oreDictOn=Nutze Ore Dictionary
 info.thermalexpansion.itemfilter.oreDictOff=Ignoriere Ore Dictionary
 info.thermalexpansion.itemfilter.nbtOn=Nutze NBT
 info.thermalexpansion.itemfilter.nbtOff=Ignoriere NBT
-info.thermalexpansion.itemfilter.incSend=Erhöhe Sende-Stabelgröße um
-info.thermalexpansion.itemfilter.decSend=Verringere Sende-Stabelgröße um
+info.thermalexpansion.itemfilter.incSend=Erhöhe Sende-Stapelgröße um
+info.thermalexpansion.itemfilter.decSend=Verringere Sende-Stapelgröße um
 info.thermalexpansion.itemfilter.maxSend=Stapelgröße
 
 info.thermalexpansion.transposer.toggleEmpty=Schalte: Leeren
