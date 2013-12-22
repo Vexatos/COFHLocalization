@@ -5,55 +5,55 @@ achievement.thermalexpansion.base.desc=И так это начинается.
 achievement.thermalexpansion.machineFrame=Обрамленный!
 achievement.thermalexpansion.machineFrame.desc=Вы ещё сделаете много таких.
 
-achievement.thermalexpansion.furnace=Coal is For Chumps
-achievement.thermalexpansion.furnace.desc=Smelt things in style!
+achievement.thermalexpansion.furnace=Уголь для дураков
+achievement.thermalexpansion.furnace.desc=Выплавляйте вещи со стилем!
 achievement.thermalexpansion.pulverizer=MACHINE SMASH!
 achievement.thermalexpansion.pulverizer.desc=Puny ore.
-achievement.thermalexpansion.sawmill=Hate Trees, Love Wood
+achievement.thermalexpansion.sawmill=Ненавидь деревья, люби древесину
 achievement.thermalexpansion.sawmill.desc=Like punching trees, but better.
-achievement.thermalexpansion.smelter=Two Ingots Enter, One Ingot Leaves
-achievement.thermalexpansion.smelter.desc=Absolutely not for food.
+achievement.thermalexpansion.smelter=Два слитка входит, один слиток выходит
+achievement.thermalexpansion.smelter.desc=Абсолютно не для еды.
 achievement.thermalexpansion.crucible=Melt Everything
-achievement.thermalexpansion.crucible.desc=Yes, it can make lava. You monster.
+achievement.thermalexpansion.crucible.desc=Да, это может делать лаву. Вы монстр.
 achievement.thermalexpansion.transposer=(Mostly) Free Refills
 achievement.thermalexpansion.transposer.desc=Filling buckets by hand is hard work.
-achievement.thermalexpansion.iceGen=Snowball Fight!
-achievement.thermalexpansion.iceGen.desc=Will not make yellow snow.
+achievement.thermalexpansion.iceGen=Снежки!
+achievement.thermalexpansion.iceGen.desc=Не делает жёлтый снег.
 achievement.thermalexpansion.rockGen=This Thing Rocks!
 achievement.thermalexpansion.rockGen.desc=It also Obsidians!
-achievement.thermalexpansion.waterGen=Water, Water Everywhere
-achievement.thermalexpansion.waterGen.desc=No, it does not work with lava. You monster.
+achievement.thermalexpansion.waterGen=Вода, вода везде
+achievement.thermalexpansion.waterGen.desc=Нет, это не работает с лавой. Вы монстр.
 achievement.thermalexpansion.assembler=A Vicious Cycle
 achievement.thermalexpansion.assembler.desc=No, it will not craft that.
 achievement.thermalexpansion.charger=What The Flux?
 achievement.thermalexpansion.charger.desc=Flux knows no bounds. So watch your hands.
 
-achievement.thermalexpansion.wrench=Looks Like a Nail!
-achievement.thermalexpansion.wrench.desc=Any tool is a hammer if you *really* need one.
+achievement.thermalexpansion.wrench=Выглядит как гвоздь!
+achievement.thermalexpansion.wrench.desc=Любой инструмент - молоток, если вам он *действительно* нужен.
 achievement.thermalexpansion.multimeter=B.S.E.E.
 achievement.thermalexpansion.multimeter.desc=There are no accidents, only Flukes.
 achievement.thermalexpansion.florb=Я могу метнуть это?!
 achievement.thermalexpansion.florb.desc=Содержит жидкость. Вы можете метнуть его.
 achievement.thermalexpansion.florbMagmatic=Смотри как Мир горит
-achievement.thermalexpansion.florbMagmatic.desc=Florb. Да, он содержит лаву. Вы монстер.
+achievement.thermalexpansion.florbMagmatic.desc=Шарик. Да, он содержит лаву. Вы монстр.
 
-achievement.thermalexpansion.potatoBattery=Half-Baked Idea!
+achievement.thermalexpansion.potatoBattery=Полусырая идея!
 achievement.thermalexpansion.potatoBattery.desc=Po-Tay-To
 
-achievement.thermalexpansion.fluidRedstone=Redstone Revolution!
-achievement.thermalexpansion.fluidRedstone.desc=Up is still up, down is still down. And this is still awesome.
-achievement.thermalexpansion.fluidGlowstone=It Flows Up?!
-achievement.thermalexpansion.fluidGlowstone.desc=So that's how those formations occur! It all makes nonsense now!
+achievement.thermalexpansion.fluidRedstone=Красная революция!
+achievement.thermalexpansion.fluidRedstone.desc=Верх всё ещё верх, низ всё ещё низ. И это всё ещё удивительно.
+achievement.thermalexpansion.fluidGlowstone=Это течёт вверх?!
+achievement.thermalexpansion.fluidGlowstone.desc=Так вот, как происходят эти образования! Всё это ерунда!
 achievement.thermalexpansion.fluidEnder=Wibbly-Wobbly, Timey-Wimey.
-achievement.thermalexpansion.fluidEnder.desc=The End is actually just the beginning.
-achievement.thermalexpansion.fluidPyrotheum=OH GOD WHY?!
-achievement.thermalexpansion.fluidPyrotheum.desc=This is actually worse than lava. You monster.
-achievement.thermalexpansion.fluidCryotheum=Winter is Coming
-achievement.thermalexpansion.fluidCryotheum.desc=This is also worse than lava, except cold. You yeti.
-achievement.thermalexpansion.fluidCoal=Liquifaction is Salvation!
-achievement.thermalexpansion.fluidCoal.desc=This cannot *possibly* be good for the environment.
+achievement.thermalexpansion.fluidEnder.desc=Конец на самом деле только начало.
+achievement.thermalexpansion.fluidPyrotheum=О, БОЖЕ ПОЧЕМУ?!
+achievement.thermalexpansion.fluidPyrotheum.desc=На самом деле это хуже, чем лава. Вы монстр.
+achievement.thermalexpansion.fluidCryotheum=Зима приближается
+achievement.thermalexpansion.fluidCryotheum.desc=Это также хуже, чем лава, за исключением, что это холод. Вы йети.
+achievement.thermalexpansion.fluidCoal=Разжижение - спасение!
+achievement.thermalexpansion.fluidCoal.desc=Это не хорошо *возможно* для окружающей среды.
 
-death.attack.pyrotheum=%1$s mistook Pyrotheum for Water!
+death.attack.pyrotheum=%1$s принял пиротеум за воду!
 death.attack.pyrotheum.player=%1$s сгорел заживо, убегая от %2$s!
 death.attack.cryotheum=%1$s замёрз досмерти!
 death.attack.cryotheum.player=%1$s замёрз досмерти, убегая от %2$s!
@@ -73,9 +73,9 @@ fluid.steam=Пар
 
 info.thermalexpansion.schematic=Схема
 
-info.thermalexpansion.modeItem=Item Mode
-info.thermalexpansion.modeFluid=Fluid Mode
-info.thermalexpansion.modeEnergy=Energy Mode
+info.thermalexpansion.modeItem=Режим предметов
+info.thermalexpansion.modeFluid=Режим жидкостей
+info.thermalexpansion.modeEnergy=Режим энергии
 info.thermalexpansion.modeBlocked=Blocked
 info.thermalexpansion.modeSend=Send Only
 info.thermalexpansion.modeRecv=Receive Only
@@ -106,7 +106,7 @@ info.thermalexpansion.cell.incSend=Increase RF Output by
 info.thermalexpansion.cell.maxIn=Max Input
 info.thermalexpansion.cell.maxOut=Max Output
 
-info.thermalexpansion.fluidfilter=Fluid Filter
+info.thermalexpansion.fluidfilter=Жидкостный фильтр
 
 info.thermalexpansion.itemhud.stuffed=Stuffed Items
 
