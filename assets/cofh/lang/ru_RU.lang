@@ -31,7 +31,7 @@ info.cofh.owner=Владелец
 info.cofh.press=Нажать
 info.cofh.receive=Принять
 info.cofh.receiving=Приём
-info.cofh.redstoneControl=Контроль красн. камнем
+info.cofh.redstoneControl=Красный контроль
 info.cofh.redstoneControlOff=Выключено
 info.cofh.redstoneControlOn=Включено
 info.cofh.redstoneStateHigh=Высоко
@@ -48,7 +48,7 @@ info.cofh.tutorial=Туториал
 info.cofh.tutorial.fluxRequired=Для работы необходим Redstone Flux.
 info.cofh.tutorial.tabConfiguration=Эта конфигурация определяет как предметы попадают и покидают машину.
 info.cofh.tutorial.tabConfiguration2=Вкладка конфигурации настраивает режим работы этой машины.
-info.cofh.tutorial.tabRedstone=Вкладка "Контроль красн. камнем" настраивает поведение машины на сигнал красного камня.
+info.cofh.tutorial.tabRedstone=Вкладка "Красный контроль" настраивает поведение машины на сигнал красного камня.
 
 info.cofh.lexicon1=Конвертирует предметы в их эквивалентные формы.
 info.cofh.lexicon2=ПКМ (открыть), чтобы изучить.
