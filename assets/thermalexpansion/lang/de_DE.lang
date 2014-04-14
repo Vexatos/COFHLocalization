@@ -84,7 +84,7 @@ info.thermalexpansion.modeSendRecv=Senden/Empfangen
 info.thermalexpansion.neihandler.furnace=Redstone-Ofen
 info.thermalexpansion.neihandler.pulverizer=Pulverisierer
 info.thermalexpansion.neihandler.sawmill=Sägewerk
-info.thermalexpansion.neihandler.smelter=Inductionsschmelzer
+info.thermalexpansion.neihandler.smelter=Induktionsschmelzer
 info.thermalexpansion.neihandler.crucible=Magmatiegel
 info.thermalexpansion.neihandler.transposer=Flüssigtransposer
 
@@ -354,7 +354,7 @@ tile.thermalexpansion.lamp.name=Glowstone-Illuminator
 tile.thermalexpansion.machine.furnace.name=Redstone-Ofen
 tile.thermalexpansion.machine.pulverizer.name=Pulverisierer
 tile.thermalexpansion.machine.sawmill.name=Sägewerk
-tile.thermalexpansion.machine.smelter.name=Inductionsschmelzer
+tile.thermalexpansion.machine.smelter.name=Induktionsschmelzer
 tile.thermalexpansion.machine.crucible.name=Magmatiegel
 tile.thermalexpansion.machine.transposer.name=Flüssigtransposer
 tile.thermalexpansion.machine.iceGen.name=Glazialpräzipitator
